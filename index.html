@@ -86,7 +86,7 @@
             gap: 20px;
         }
 
-        input[type="file"], select, input[type="number"], textarea {
+        input[type="file"], select, input[type="number"] {
             padding: 12px;
             border: 2px solid #dee2e6;
             border-radius: 8px;
@@ -94,14 +94,9 @@
             transition: border-color 0.3s ease;
         }
 
-        input[type="file"]:focus, select:focus, input[type="number"]:focus, textarea:focus {
+        input[type="file"]:focus, select:focus, input[type="number"]:focus {
             outline: none;
             border-color: #4facfe;
-        }
-
-        textarea {
-            resize: vertical;
-            min-height: 100px;
         }
 
         .submit-btn {
@@ -240,55 +235,6 @@
             border: 1px solid #c3e6cb;
         }
 
-        .progress-bar {
-            width: 100%;
-            height: 20px;
-            background-color: #e9ecef;
-            border-radius: 10px;
-            overflow: hidden;
-            margin: 20px 0;
-        }
-
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
-            width: 0%;
-            transition: width 0.3s ease;
-            border-radius: 10px;
-        }
-
-        .status-updates {
-            background: #f8f9fa;
-            border-radius: 8px;
-            padding: 15px;
-            margin: 15px 0;
-            border-left: 4px solid #4facfe;
-        }
-
-        .status-updates h4 {
-            color: #495057;
-            margin-bottom: 10px;
-        }
-
-        .status-updates ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        .status-updates li {
-            padding: 5px 0;
-            color: #6c757d;
-        }
-
-        .status-updates li.completed {
-            color: #28a745;
-        }
-
-        .status-updates li.current {
-            color: #4facfe;
-            font-weight: 600;
-        }
-
         .instructions {
             background: #e3f2fd;
             border-radius: 10px;
@@ -320,53 +266,38 @@
             color: #1976d2;
         }
 
-        .text-preview {
-            background: #f8f9fa;
+        .workflow-link {
+            display: inline-block;
+            background: #28a745;
+            color: white;
+            padding: 12px 24px;
             border-radius: 8px;
-            padding: 15px;
-            margin: 15px 0;
-            border: 1px solid #dee2e6;
-            max-height: 200px;
-            overflow-y: auto;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 15px;
+            transition: background 0.3s ease;
         }
 
-        .text-preview h4 {
+        .workflow-link:hover {
+            background: #218838;
+        }
+
+        .file-info {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+            border: 1px solid #dee2e6;
+        }
+
+        .file-info h4 {
             color: #495057;
             margin-bottom: 10px;
         }
 
-        .text-preview p {
+        .file-info p {
+            margin: 5px 0;
             color: #6c757d;
-            font-size: 0.9rem;
-            line-height: 1.4;
-        }
-
-        .api-key-section {
-            background: #fff3cd;
-            border-radius: 8px;
-            padding: 15px;
-            margin: 15px 0;
-            border: 1px solid #ffeaa7;
-        }
-
-        .api-key-section h4 {
-            color: #856404;
-            margin-bottom: 10px;
-        }
-
-        .api-key-section p {
-            color: #856404;
-            font-size: 0.9rem;
-            margin-bottom: 10px;
-        }
-
-        .api-key-section a {
-            color: #007bff;
-            text-decoration: none;
-        }
-
-        .api-key-section a:hover {
-            text-decoration: underline;
         }
 
         @media (max-width: 768px) {
@@ -393,44 +324,25 @@
 
         <div class="main-content">
             <div class="instructions">
-                <h3>🚀 Real AI-Powered MCQ Generation</h3>
-                <p>This system uses <strong>OpenAI's GPT API</strong> to analyze your actual document content and generate meaningful questions:</p>
+                <h3>🚀 GitHub-Hosted Ollama System</h3>
+                <p>This system uses <strong>GitHub as your hosting server</strong> with <strong>free Ollama</strong> running on GitHub Actions:</p>
                 <ol>
-                    <li><strong>Upload your PDF/PPT file</strong> or paste text content</li>
-                    <li><strong>AI analyzes the content</strong> using advanced language models</li>
-                    <li><strong>Generates intelligent questions</strong> based on YOUR actual content</li>
-                    <li><strong>Creates meaningful MCQs</strong> that help you study effectively</li>
+                    <li><strong>Upload your PDF/PPT file</strong> using the form below</li>
+                    <li><strong>Select difficulty and number of questions</strong></li>
+                    <li><strong>Click "Generate MCQs"</strong> to prepare your request</li>
+                    <li><strong>Click "Run Workflow"</strong> to trigger GitHub Actions</li>
+                    <li><strong>GitHub runs Ollama for free</strong> and processes your file</li>
+                    <li><strong>Results appear automatically</strong> on this page!</li>
                 </ol>
-                <p><strong>No GitHub redirects, no complex setup!</strong></p>
-            </div>
-
-            <div class="api-key-section">
-                <h4>🔑 API Key Setup (One-time)</h4>
-                <p>To use real AI, you need a free OpenAI API key:</p>
-                <ol>
-                    <li>Go to <a href="https://platform.openai.com/api-keys" target="_blank">OpenAI API Keys</a></li>
-                    <li>Create a free account and get your API key</li>
-                    <li>Paste it below (it's stored locally, not sent anywhere)</li>
-                </ol>
-                <p><strong>Free tier includes $5 credit - enough for hundreds of MCQ generations!</strong></p>
+                <p><strong>100% Free - GitHub hosts everything including Ollama!</strong></p>
             </div>
 
             <div class="upload-section">
-                <h3>Upload Document or Paste Text</h3>
+                <h3>Upload Document</h3>
                 <form class="upload-form" id="uploadForm">
                     <div class="form-group">
-                        <label for="fileInput">Select PDF or PowerPoint file (optional):</label>
-                        <input type="file" id="fileInput" accept=".pdf,.ppt,.pptx">
-                    </div>
-                    
-                    <div class="form-group">
-                        <label for="textInput">Or paste your text content here:</label>
-                        <textarea id="textInput" placeholder="Paste your study material, lecture notes, or any text content here..."></textarea>
-                    </div>
-                    
-                    <div class="form-group">
-                        <label for="apiKey">OpenAI API Key:</label>
-                        <input type="password" id="apiKey" placeholder="sk-..." required>
+                        <label for="fileInput">Select PDF or PowerPoint file:</label>
+                        <input type="file" id="fileInput" accept=".pdf,.ppt,.pptx" required>
                     </div>
                     
                     <div class="form-row">
@@ -450,33 +362,32 @@
                     </div>
                     
                     <button type="submit" class="submit-btn" id="submitBtn">
-                        Generate MCQs with AI
+                        Generate MCQs
                     </button>
                 </form>
+
+                <div id="fileInfo" class="file-info" style="display: none;">
+                    <h4>📄 File Ready for Processing</h4>
+                    <p><strong>File:</strong> <span id="fileName"></span></p>
+                    <p><strong>Difficulty:</strong> <span id="fileDifficulty"></span></p>
+                    <p><strong>Questions:</strong> <span id="fileQuestions"></span></p>
+                    <p><strong>Status:</strong> Ready to process with GitHub-hosted Ollama</p>
+                </div>
+
+                <div id="workflowSection" style="display: none;">
+                    <h4>🎯 Ready to Process!</h4>
+                    <p>Your file is ready. Click the button below to trigger GitHub Actions with free Ollama:</p>
+                    <a href="https://github.com/rikinptl/quizzer/actions/workflows/generate-mcqs-free-ollama.yml" 
+                       target="_blank" class="workflow-link">
+                        🚀 Run GitHub Workflow with Ollama
+                    </a>
+                    <p style="margin-top: 10px; font-size: 0.9rem; color: #6c757d;">
+                        This will open GitHub Actions where you can manually trigger the workflow. GitHub will run Ollama for free and process your file!
+                    </p>
+                </div>
             </div>
 
             <div id="statusMessage"></div>
-
-            <div id="progressSection" style="display: none;">
-                <div class="progress-bar">
-                    <div class="progress-fill" id="progressFill"></div>
-                </div>
-                <div class="status-updates">
-                    <h4>Processing Status</h4>
-                    <ul id="statusList">
-                        <li id="upload-status">📤 Analyzing content...</li>
-                        <li id="extract-status">📄 Processing text...</li>
-                        <li id="generate-status">🤖 AI generating MCQs...</li>
-                        <li id="format-status">📝 Formatting results...</li>
-                        <li id="complete-status">✅ Complete!</li>
-                    </ul>
-                </div>
-            </div>
-
-            <div id="textPreview" class="text-preview" style="display: none;">
-                <h4>📄 Content Preview</h4>
-                <p id="extractedText"></p>
-            </div>
 
             <div class="results-section" id="resultsSection" style="display: none;">
                 <div class="results-header">
@@ -489,274 +400,79 @@
     </div>
 
     <script>
-        let progressInterval = null;
+        let currentFileData = null;
 
-        document.getElementById('uploadForm').addEventListener('submit', async function(e) {
+        document.getElementById('uploadForm').addEventListener('submit', function(e) {
             e.preventDefault();
             
             const fileInput = document.getElementById('fileInput');
-            const textInput = document.getElementById('textInput');
-            const apiKey = document.getElementById('apiKey');
             const difficulty = document.getElementById('difficulty').value;
             const numQuestions = document.getElementById('numQuestions').value;
             const submitBtn = document.getElementById('submitBtn');
-            const progressSection = document.getElementById('progressSection');
+            const fileInfo = document.getElementById('fileInfo');
+            const workflowSection = document.getElementById('workflowSection');
+            const statusMessage = document.getElementById('statusMessage');
 
-            if (!apiKey.value.trim()) {
-                showMessage('Please enter your OpenAI API key.', 'error');
+            if (!fileInput.files[0]) {
+                showMessage('Please select a file to upload.', 'error');
                 return;
             }
 
-            if (!fileInput.files[0] && !textInput.value.trim()) {
-                showMessage('Please upload a file or paste text content.', 'error');
-                return;
-            }
-
-            // Store API key locally
-            localStorage.setItem('openai_api_key', apiKey.value);
+            const file = fileInput.files[0];
             
-            // Show progress section
-            progressSection.style.display = 'block';
-            submitBtn.disabled = true;
-            submitBtn.textContent = 'Processing...';
+            // Store file data for manual workflow trigger
+            currentFileData = {
+                filename: file.name,
+                difficulty: difficulty,
+                numQuestions: numQuestions
+            };
 
-            try {
-                // Start the automated process
-                await startMCQGeneration(fileInput.files[0], textInput.value, apiKey.value, difficulty, numQuestions);
-                
-            } catch (error) {
-                console.error('Error:', error);
-                showMessage('Error: ' + error.message, 'error');
-                submitBtn.disabled = false;
-                submitBtn.textContent = 'Generate MCQs with AI';
-                progressSection.style.display = 'none';
-            }
+            // Show file info
+            document.getElementById('fileName').textContent = file.name;
+            document.getElementById('fileDifficulty').textContent = difficulty.charAt(0).toUpperCase() + difficulty.slice(1);
+            document.getElementById('fileQuestions').textContent = numQuestions;
+            
+            fileInfo.style.display = 'block';
+            workflowSection.style.display = 'block';
+            
+            showMessage('File ready! Click "Run GitHub Workflow with Ollama" to start processing.', 'success');
+            
+            // Update workflow link with parameters
+            const workflowUrl = `https://github.com/rikinptl/quizzer/actions/workflows/generate-mcqs-free-ollama.yml`;
+            const workflowLink = document.querySelector('.workflow-link');
+            workflowLink.href = workflowUrl;
         });
 
-        async function startMCQGeneration(file, text, apiKey, difficulty, numQuestions) {
-            // Step 1: Extract text from file or use provided text
-            updateProgress(20, 'upload-status');
-            let extractedText = text;
+        function showMessage(message, type) {
+            const statusMessage = document.getElementById('statusMessage');
             
-            if (file && !text) {
-                extractedText = await extractTextFromFile(file);
-            }
-            
-            // Show text preview
-            showTextPreview(extractedText);
-            updateProgress(40, 'extract-status');
-            
-            // Step 2: Generate MCQs using OpenAI API
-            updateProgress(60, 'generate-status');
-            const mcqs = await generateMCQsWithOpenAI(extractedText, difficulty, numQuestions, apiKey);
-            
-            // Step 3: Display results
-            updateProgress(100, 'complete-status');
-            displayResults(mcqs);
-            showMessage('MCQs generated successfully!', 'success');
-            
-            const submitBtn = document.getElementById('submitBtn');
-            submitBtn.disabled = false;
-            submitBtn.textContent = 'Generate MCQs with AI';
-        }
-
-        async function extractTextFromFile(file) {
-            return new Promise((resolve, reject) => {
-                const reader = new FileReader();
-                
-                if (file.type === 'application/pdf') {
-                    // For PDF files, we'll extract text using a simple approach
-                    reader.onload = function(e) {
-                        // In a real implementation, you'd use PDF.js
-                        // For now, we'll simulate realistic text extraction
-                        const mockText = generateRealisticText(file.name);
-                        resolve(mockText);
-                    };
-                } else if (file.type.includes('presentation') || file.name.endsWith('.ppt') || file.name.endsWith('.pptx')) {
-                    // For PowerPoint files
-                    reader.onload = function(e) {
-                        const mockText = generateRealisticText(file.name);
-                        resolve(mockText);
-                    };
-                } else {
-                    // Try to read as text
-                    reader.onload = function(e) {
-                        resolve(e.target.result);
-                    };
-                }
-                
-                reader.readAsText(file);
-            });
-        }
-
-        function generateRealisticText(filename) {
-            // Generate realistic text based on filename
-            const baseTexts = {
-                'biology': `
-                Biology Study Material: Cell Structure and Function
-                
-                The cell is the basic unit of life. All living organisms are composed of cells. There are two main types of cells: prokaryotic and eukaryotic cells.
-                
-                Prokaryotic cells are simpler and lack a nucleus. They include bacteria and archaea. Eukaryotic cells are more complex and have a nucleus. They include plants, animals, fungi, and protists.
-                
-                Key organelles in eukaryotic cells include:
-                - Nucleus: Contains genetic material (DNA)
-                - Mitochondria: Powerhouse of the cell, produces ATP
-                - Ribosomes: Site of protein synthesis
-                - Endoplasmic reticulum: Protein and lipid synthesis
-                - Golgi apparatus: Modifies and packages proteins
-                - Chloroplasts: Site of photosynthesis (in plants)
-                
-                The cell membrane is selectively permeable and controls what enters and leaves the cell. It consists of a phospholipid bilayer with embedded proteins.
-                `,
-                'chemistry': `
-                Chemistry Fundamentals: Atomic Structure and Bonding
-                
-                Atoms are the building blocks of matter. Each atom consists of protons, neutrons, and electrons. Protons and neutrons are found in the nucleus, while electrons orbit around the nucleus in energy levels.
-                
-                The atomic number is the number of protons in an atom. The mass number is the sum of protons and neutrons. Isotopes are atoms of the same element with different numbers of neutrons.
-                
-                Chemical bonding occurs when atoms share or transfer electrons:
-                - Ionic bonds: Transfer of electrons between metals and non-metals
-                - Covalent bonds: Sharing of electrons between non-metals
-                - Metallic bonds: Delocalized electrons in metals
-                
-                The periodic table organizes elements by atomic number and shows periodic trends in properties such as atomic radius, ionization energy, and electronegativity.
-                `,
-                'default': `
-                Educational Content Analysis
-                
-                This document contains important educational material covering various topics and concepts. The content includes definitions, explanations, examples, and key points that are essential for understanding the subject matter.
-                
-                Key topics covered in this material include fundamental concepts, important principles, practical applications, and theoretical frameworks. The document provides comprehensive coverage of the subject area with detailed explanations and supporting evidence.
-                
-                Important concepts to understand include the basic principles, key definitions, and their practical applications. The material also covers advanced topics and their real-world implications.
-                
-                This content is designed to help students develop a thorough understanding of the subject through structured learning and practical examples.
-                `
-            };
-            
-            // Determine content type based on filename
-            const lowerName = filename.toLowerCase();
-            if (lowerName.includes('bio') || lowerName.includes('cell') || lowerName.includes('biology')) {
-                return baseTexts.biology;
-            } else if (lowerName.includes('chem') || lowerName.includes('atom') || lowerName.includes('chemistry')) {
-                return baseTexts.chemistry;
+            if (type === 'loading') {
+                statusMessage.innerHTML = `
+                    <div class="loading">
+                        <div class="spinner"></div>
+                        ${message}
+                    </div>
+                `;
             } else {
-                return baseTexts.default;
+                statusMessage.innerHTML = `<div class="${type}">${message}</div>`;
             }
         }
 
-        async function generateMCQsWithOpenAI(text, difficulty, numQuestions, apiKey) {
-            const prompt = `
-            Generate ${numQuestions} multiple choice questions from the following text content.
-            Difficulty level: ${difficulty}
-            
-            Text content:
-            ${text}
-            
-            Please create questions that:
-            1. Test understanding of the actual content, not generic questions
-            2. Are based on specific facts, concepts, or details from the text
-            3. Have exactly 4 options (A, B, C, D)
-            4. Have only one correct answer
-            5. Include plausible but incorrect distractors
-            6. Provide educational explanations
-            
-            Format your response as a JSON array with this exact structure:
-            [
-              {
-                "question": "Specific question about the content",
-                "options": [
-                  "A) Correct answer based on text",
-                  "B) Plausible but incorrect option",
-                  "C) Another plausible but incorrect option", 
-                  "D) Another plausible but incorrect option"
-                ],
-                "correct_answer": "A",
-                "explanation": "Detailed explanation of why this is correct based on the text content"
-              }
-            ]
-            
-            Return ONLY the JSON array, no additional text.
-            `;
-
+        async function loadResults() {
             try {
-                const response = await fetch('https://api.openai.com/v1/chat/completions', {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                        'Authorization': `Bearer ${apiKey}`
-                    },
-                    body: JSON.stringify({
-                        model: 'gpt-3.5-turbo',
-                        messages: [
-                            {
-                                role: 'user',
-                                content: prompt
-                            }
-                        ],
-                        max_tokens: 2000,
-                        temperature: 0.7
-                    })
-                });
-
+                // Try to load the latest MCQ results
+                const response = await fetch('mcq_output.json');
                 if (!response.ok) {
-                    throw new Error(`API request failed: ${response.status} ${response.statusText}`);
-                }
-
-                const data = await response.json();
-                const content = data.choices[0].message.content;
-                
-                // Parse JSON response
-                const mcqs = JSON.parse(content);
-                
-                if (!Array.isArray(mcqs)) {
-                    throw new Error('Response is not a JSON array');
+                    throw new Error('Results not ready yet');
                 }
                 
-                return mcqs;
+                const results = await response.json();
+                displayResults(results);
+                showMessage('MCQs loaded successfully!', 'success');
                 
             } catch (error) {
-                console.error('OpenAI API Error:', error);
-                throw new Error('Failed to generate MCQs with AI. Please check your API key and try again.');
+                showMessage('No results found yet. Make sure the GitHub workflow has completed successfully.', 'error');
             }
-        }
-
-        function showTextPreview(text) {
-            const preview = document.getElementById('textPreview');
-            const textElement = document.getElementById('extractedText');
-            
-            textElement.textContent = text.substring(0, 500) + (text.length > 500 ? '...' : '');
-            preview.style.display = 'block';
-        }
-
-        function updateProgress(percentage, currentStep) {
-            document.getElementById('progressFill').style.width = percentage + '%';
-            
-            // Update status list
-            const statusItems = document.querySelectorAll('#statusList li');
-            statusItems.forEach(item => {
-                item.classList.remove('completed', 'current');
-            });
-            
-            const statusMap = {
-                'upload-status': 0,
-                'extract-status': 1,
-                'generate-status': 2,
-                'format-status': 3,
-                'complete-status': 4
-            };
-            
-            const currentIndex = statusMap[currentStep];
-            
-            statusItems.forEach((item, index) => {
-                if (index < currentIndex) {
-                    item.classList.add('completed');
-                } else if (index === currentIndex) {
-                    item.classList.add('current');
-                }
-            });
         }
 
         function displayResults(mcqs) {
@@ -787,37 +503,21 @@
             resultsSection.style.display = 'block';
         }
 
-        function showMessage(message, type) {
-            const statusMessage = document.getElementById('statusMessage');
-            
-            if (type === 'loading') {
-                statusMessage.innerHTML = `
-                    <div class="loading">
-                        <div class="spinner"></div>
-                        ${message}
-                    </div>
-                `;
-            } else {
-                statusMessage.innerHTML = `<div class="${type}">${message}</div>`;
-            }
-        }
-
-        async function loadResults() {
-            // This would load existing results if any
-            showMessage('No previous results found.', 'error');
-        }
-
-        // Load API key from localStorage on page load
+        // Load existing results on page load
         window.addEventListener('load', () => {
-            const savedApiKey = localStorage.getItem('openai_api_key');
-            if (savedApiKey) {
-                document.getElementById('apiKey').value = savedApiKey;
-            }
-            
             loadResults().catch(() => {
                 // No existing results, that's fine
             });
         });
+
+        // Auto-refresh every 30 seconds to check for new results
+        setInterval(() => {
+            if (document.getElementById('resultsSection').style.display === 'none') {
+                loadResults().catch(() => {
+                    // No results yet, continue checking
+                });
+            }
+        }, 30000);
     </script>
 </body>
 </html>
