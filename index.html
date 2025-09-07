@@ -122,44 +122,6 @@
             transform: none;
         }
 
-        .instructions {
-            background: #e3f2fd;
-            border-radius: 10px;
-            padding: 20px;
-            margin-bottom: 20px;
-            border-left: 4px solid #2196f3;
-        }
-
-        .instructions h3 {
-            color: #1976d2;
-            margin-bottom: 10px;
-        }
-
-        .instructions ol {
-            margin-left: 20px;
-        }
-
-        .instructions li {
-            margin-bottom: 8px;
-            color: #424242;
-        }
-
-        .workflow-link {
-            display: inline-block;
-            background: #28a745;
-            color: white;
-            padding: 12px 24px;
-            border-radius: 8px;
-            text-decoration: none;
-            font-weight: 600;
-            margin-top: 15px;
-            transition: background 0.3s ease;
-        }
-
-        .workflow-link:hover {
-            background: #218838;
-        }
-
         .results-section {
             margin-top: 30px;
         }
@@ -273,12 +235,69 @@
             border: 1px solid #c3e6cb;
         }
 
+        .instructions {
+            background: #e3f2fd;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 4px solid #2196f3;
+        }
+
+        .instructions h3 {
+            color: #1976d2;
+            margin-bottom: 10px;
+        }
+
+        .instructions p {
+            color: #424242;
+            margin-bottom: 10px;
+        }
+
+        .instructions ol {
+            margin-left: 20px;
+        }
+
+        .instructions li {
+            margin-bottom: 8px;
+            color: #424242;
+        }
+
+        .instructions strong {
+            color: #1976d2;
+        }
+
+        .workflow-link {
+            display: inline-block;
+            background: #28a745;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 15px;
+            transition: background 0.3s ease;
+        }
+
+        .workflow-link:hover {
+            background: #218838;
+        }
+
         .file-info {
             background: #f8f9fa;
             padding: 15px;
             border-radius: 8px;
             margin: 15px 0;
             border: 1px solid #dee2e6;
+        }
+
+        .file-info h4 {
+            color: #495057;
+            margin-bottom: 10px;
+        }
+
+        .file-info p {
+            margin: 5px 0;
+            color: #6c757d;
         }
 
         @media (max-width: 768px) {
@@ -314,6 +333,7 @@
                     <li><strong>Wait 3-5 minutes</strong> for processing to complete</li>
                     <li><strong>Refresh this page</strong> to see your generated MCQs!</li>
                 </ol>
+                <p><strong>Note:</strong> The system uses GitHub Actions to process your files. You'll need to manually trigger the workflow once, but the results will appear automatically on this page.</p>
             </div>
 
             <div class="upload-section">
