@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PDF/PPT to MCQ Generator</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        .header p {
+            font-size: 1.1rem;
+            opacity: 0.9;
+        }
+
+        .main-content {
+            padding: 40px;
+        }
+
+        .upload-section {
+            background: #f8f9fa;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            border: 2px dashed #dee2e6;
+            transition: all 0.3s ease;
+        }
+
+        .upload-section:hover {
+            border-color: #4facfe;
+            background: #f0f8ff;
+        }
+
+        .upload-form {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .form-group label {
+            font-weight: 600;
+            color: #495057;
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        input[type="file"], select, input[type="number"] {
+            padding: 12px;
+            border: 2px solid #dee2e6;
+            border-radius: 8px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+
+        input[type="file"]:focus, select:focus, input[type="number"]:focus {
+            outline: none;
+            border-color: #4facfe;
+        }
+
+        .submit-btn {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 8px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+            margin-top: 10px;
+        }
+
+        .submit-btn:hover {
+            transform: translateY(-2px);
+        }
+
+        .submit-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        .results-section {
+            margin-top: 30px;
+        }
+
+        .results-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #dee2e6;
+        }
+
+        .results-header h2 {
+            color: #495057;
+        }
+
+        .refresh-btn {
+            background: #28a745;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .mcq-container {
+            display: grid;
+            gap: 20px;
+        }
+
+        .mcq-item {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            border-left: 4px solid #4facfe;
+        }
+
+        .mcq-question {
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #495057;
+            font-size: 1.1rem;
+        }
+
+        .mcq-options {
+            display: grid;
+            gap: 8px;
+            margin-bottom: 15px;
+        }
+
+        .mcq-option {
+            padding: 10px;
+            background: white;
+            border-radius: 6px;
+            border: 1px solid #dee2e6;
+            transition: all 0.2s ease;
+        }
+
+        .mcq-option.correct {
+            background: #d4edda;
+            border-color: #28a745;
+            color: #155724;
+        }
+
+        .mcq-explanation {
+            background: #e3f2fd;
+            padding: 12px;
+            border-radius: 6px;
+            font-style: italic;
+            color: #1976d2;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #6c757d;
+        }
+
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #4facfe;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border: 1px solid #f5c6cb;
+        }
+
+        .success {
+            background: #d4edda;
+            color: #155724;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            border: 1px solid #c3e6cb;
+        }
+
+        @media (max-width: 768px) {
+            .form-row {
+                grid-template-columns: 1fr;
+            }
+            
+            .header h1 {
+                font-size: 2rem;
+            }
+            
+            .main-content {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>📚 PDF/PPT to MCQ Generator</h1>
+            <p>Upload your documents and get AI-generated multiple choice questions for studying</p>
+        </div>
+
+        <div class="main-content">
+            <div class="upload-section">
+                <h3>Upload Document</h3>
+                <form class="upload-form" id="uploadForm">
+                    <div class="form-group">
+                        <label for="fileInput">Select PDF or PowerPoint file:</label>
+                        <input type="file" id="fileInput" accept=".pdf,.ppt,.pptx" required>
+                    </div>
+                    
+                    <div class="form-row">
+                        <div class="form-group">
+                            <label for="difficulty">Difficulty Level:</label>
+                            <select id="difficulty" required>
+                                <option value="easy">Easy</option>
+                                <option value="medium" selected>Medium</option>
+                                <option value="hard">Hard</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="numQuestions">Number of Questions:</label>
+                            <input type="number" id="numQuestions" min="1" max="20" value="5" required>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" class="submit-btn" id="submitBtn">
+                        Generate MCQs
+                    </button>
+                </form>
+            </div>
+
+            <div id="statusMessage"></div>
+
+            <div class="results-section" id="resultsSection" style="display: none;">
+                <div class="results-header">
+                    <h2>Generated MCQs</h2>
+                    <button class="refresh-btn" onclick="loadResults()">🔄 Refresh</button>
+                </div>
+                <div id="mcqContainer"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        let currentFilename = null;
+
+        document.getElementById('uploadForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            
+            const fileInput = document.getElementById('fileInput');
+            const difficulty = document.getElementById('difficulty').value;
+            const numQuestions = document.getElementById('numQuestions').value;
+            const submitBtn = document.getElementById('submitBtn');
+            const statusMessage = document.getElementById('statusMessage');
+            const resultsSection = document.getElementById('resultsSection');
+
+            if (!fileInput.files[0]) {
+                showMessage('Please select a file to upload.', 'error');
+                return;
+            }
+
+            const file = fileInput.files[0];
+            currentFilename = file.name;
+
+            // Show loading state
+            submitBtn.disabled = true;
+            submitBtn.textContent = 'Processing...';
+            showMessage('Uploading file and generating MCQs. This may take a few minutes...', 'loading');
+
+            try {
+                // Upload file to uploads directory
+                await uploadFile(file);
+                
+                // Trigger GitHub Action
+                await triggerWorkflow(file.name, difficulty, numQuestions);
+                
+                showMessage('MCQ generation started! Please wait for processing to complete.', 'success');
+                
+                // Start polling for results
+                pollForResults(file.name);
+                
+            } catch (error) {
+                console.error('Error:', error);
+                showMessage('Error: ' + error.message, 'error');
+                submitBtn.disabled = false;
+                submitBtn.textContent = 'Generate MCQs';
+            }
+        });
+
+        async function uploadFile(file) {
+            const formData = new FormData();
+            formData.append('file', file);
+            
+            // In a real implementation, you'd upload to your server
+            // For GitHub Pages, we'll simulate this step
+            console.log('File upload simulated:', file.name);
+        }
+
+        async function triggerWorkflow(filename, difficulty, numQuestions) {
+            // This would trigger the GitHub Action via API
+            // For demo purposes, we'll simulate this
+            console.log('Workflow triggered:', { filename, difficulty, numQuestions });
+            
+            // Simulate API call to GitHub Actions
+            const response = await fetch('/api/trigger-workflow', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    filename,
+                    difficulty,
+                    numQuestions
+                })
+            });
+            
+            if (!response.ok) {
+                throw new Error('Failed to trigger workflow');
+            }
+        }
+
+        function pollForResults(filename) {
+            const pollInterval = setInterval(async () => {
+                try {
+                    const results = await loadResults();
+                    if (results && results.length > 0) {
+                        clearInterval(pollInterval);
+                        displayResults(results);
+                        showMessage('MCQs generated successfully!', 'success');
+                        document.getElementById('submitBtn').disabled = false;
+                        document.getElementById('submitBtn').textContent = 'Generate MCQs';
+                    }
+                } catch (error) {
+                    console.log('Still processing...');
+                }
+            }, 10000); // Poll every 10 seconds
+
+            // Stop polling after 5 minutes
+            setTimeout(() => {
+                clearInterval(pollInterval);
+                if (document.getElementById('submitBtn').disabled) {
+                    showMessage('Processing is taking longer than expected. Please check back later.', 'error');
+                    document.getElementById('submitBtn').disabled = false;
+                    document.getElementById('submitBtn').textContent = 'Generate MCQs';
+                }
+            }, 300000);
+        }
+
+        async function loadResults() {
+            try {
+                // Try to load the latest MCQ results
+                const response = await fetch('mcq_output.json');
+                if (!response.ok) {
+                    throw new Error('Results not ready yet');
+                }
+                
+                const results = await response.json();
+                return results;
+            } catch (error) {
+                throw error;
+            }
+        }
+
+        function displayResults(mcqs) {
+            const container = document.getElementById('mcqContainer');
+            const resultsSection = document.getElementById('resultsSection');
+            
+            container.innerHTML = '';
+            
+            mcqs.forEach((mcq, index) => {
+                const mcqElement = document.createElement('div');
+                mcqElement.className = 'mcq-item';
+                
+                mcqElement.innerHTML = `
+                    <div class="mcq-question">${index + 1}. ${mcq.question}</div>
+                    <div class="mcq-options">
+                        ${mcq.options.map(option => 
+                            `<div class="mcq-option ${option.startsWith(mcq.correct_answer) ? 'correct' : ''}">${option}</div>`
+                        ).join('')}
+                    </div>
+                    <div class="mcq-explanation">
+                        <strong>Explanation:</strong> ${mcq.explanation}
+                    </div>
+                `;
+                
+                container.appendChild(mcqElement);
+            });
+            
+            resultsSection.style.display = 'block';
+        }
+
+        function showMessage(message, type) {
+            const statusMessage = document.getElementById('statusMessage');
+            
+            if (type === 'loading') {
+                statusMessage.innerHTML = `
+                    <div class="loading">
+                        <div class="spinner"></div>
+                        ${message}
+                    </div>
+                `;
+            } else {
+                statusMessage.innerHTML = `<div class="${type}">${message}</div>`;
+            }
+        }
+
+        // Load existing results on page load
+        window.addEventListener('load', () => {
+            loadResults().then(results => {
+                if (results && results.length > 0) {
+                    displayResults(results);
+                }
+            }).catch(() => {
+                // No existing results, that's fine
+            });
+        });
+    </script>
+</body>
+</html>

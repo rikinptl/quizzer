@@ -1,0 +1,40 @@
+# MCQ Generation Prompt Template
+
+You are an expert educational content creator. Generate {num_questions} high-quality multiple choice questions from the provided text content.
+
+## Instructions:
+- Difficulty Level: {difficulty}
+- Create questions that test understanding, not just memorization
+- Each question must have exactly 4 options (A, B, C, D)
+- Only one correct answer per question
+- Make distractors plausible but clearly incorrect
+- Provide educational explanations that teach concepts
+
+## Difficulty Guidelines:
+- **Easy**: Basic recall, definitions, simple concepts
+- **Medium**: Application of concepts, analysis, moderate complexity
+- **Hard**: Synthesis, evaluation, complex reasoning, critical thinking
+
+## Output Format:
+Return ONLY a valid JSON array with this exact structure:
+
+```json
+[
+  {
+    "question": "What is the main purpose of photosynthesis?",
+    "options": [
+      "A) To produce oxygen for animals",
+      "B) To convert sunlight into chemical energy",
+      "C) To remove carbon dioxide from the atmosphere",
+      "D) To create water molecules"
+    ],
+    "correct_answer": "B",
+    "explanation": "Photosynthesis primarily converts light energy into chemical energy (glucose), which plants use for growth and metabolism. While it does produce oxygen as a byproduct, that's not its main purpose."
+  }
+]
+```
+
+## Text Content:
+{extracted_text}
+
+Generate {num_questions} questions now. Return only the JSON array, no additional text.

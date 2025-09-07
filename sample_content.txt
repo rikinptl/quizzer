@@ -1,0 +1,48 @@
+# Sample PDF Content for Testing
+
+This is a sample text file that simulates content that would be extracted from a PDF or PowerPoint presentation. You can use this to test the MCQ generation system.
+
+## Introduction to Machine Learning
+
+Machine learning is a subset of artificial intelligence (AI) that focuses on the development of algorithms and statistical models that enable computer systems to improve their performance on a specific task through experience, without being explicitly programmed.
+
+### Types of Machine Learning
+
+There are three main types of machine learning:
+
+1. **Supervised Learning**: Uses labeled training data to learn a mapping function from inputs to outputs. Examples include classification and regression tasks.
+
+2. **Unsupervised Learning**: Finds hidden patterns in data without labeled examples. Common techniques include clustering and dimensionality reduction.
+
+3. **Reinforcement Learning**: Learns through interaction with an environment, receiving rewards or penalties for actions taken.
+
+### Key Concepts
+
+**Training Data**: The dataset used to train a machine learning model. It should be representative of the real-world data the model will encounter.
+
+**Features**: The input variables used to make predictions. Feature engineering is crucial for model performance.
+
+**Overfitting**: When a model learns the training data too well, including noise and outliers, leading to poor performance on new data.
+
+**Cross-validation**: A technique to assess how well a model will generalize to new data by splitting the training data into multiple folds.
+
+### Applications
+
+Machine learning is used in various fields including:
+- Computer vision and image recognition
+- Natural language processing
+- Recommendation systems
+- Fraud detection
+- Medical diagnosis
+- Autonomous vehicles
+
+### Challenges
+
+Some common challenges in machine learning include:
+- Data quality and quantity
+- Feature selection and engineering
+- Model interpretability
+- Bias and fairness
+- Computational resources
+
+This sample content provides enough material for generating multiple choice questions about machine learning concepts, types, applications, and challenges.
