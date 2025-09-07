@@ -3,8 +3,8 @@ name: Generate MCQs with Free Ollama on GitHub
 on:
   workflow_dispatch:
     inputs:
-      filename:
-        description: 'Name of the uploaded file (PDF/PPT)'
+      content:
+        description: 'Text content to generate MCQs from'
         required: true
         type: string
       difficulty:
@@ -33,52 +33,35 @@ jobs:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
 
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.9'
-
-    - name: Install Python dependencies
-      run: |
-        pip install PyPDF2 python-pptx python-docx
-
     - name: Install Ollama
       run: |
         curl -fsSL https://ollama.ai/install.sh | sh
         ollama serve &
-        sleep 10
+        sleep 15
         ollama pull llama2
 
-    - name: Verify file exists
+    - name: Create content file
       run: |
-        if [ ! -f "uploads/${{ github.event.inputs.filename }}" ]; then
-          echo "Error: File uploads/${{ github.event.inputs.filename }} not found"
+        echo "${{ github.event.inputs.content }}" > content.txt
+        echo "Content file created successfully"
+
+    - name: Verify content
+      run: |
+        if [ ! -s "content.txt" ]; then
+          echo "Error: No content provided"
           exit 1
         fi
-        echo "File found: uploads/${{ github.event.inputs.filename }}"
-
-    - name: Extract text from document
-      run: |
-        python scripts/extract_text.py "uploads/${{ github.event.inputs.filename }}" > extracted_text.txt
-        echo "Text extraction completed"
-
-    - name: Verify text extraction
-      run: |
-        if [ ! -s "extracted_text.txt" ]; then
-          echo "Error: No text extracted from document"
-          exit 1
-        fi
-        echo "Text extraction successful. Content length: $(wc -c < extracted_text.txt) characters"
+        echo "Content verification successful. Content length: $(wc -c < content.txt) characters"
 
     - name: Generate MCQs with Ollama
       run: |
-        # Create prompt with extracted text
+        # Create prompt with content
         cat > prompt.txt << EOF
         Generate ${{ github.event.inputs.num_questions }} multiple choice questions from the following text.
         Difficulty level: ${{ github.event.inputs.difficulty }}
         
         Text content:
-        $(cat extracted_text.txt)
+        $(cat content.txt)
         
         Format each question as JSON with this structure:
         {
@@ -112,7 +95,7 @@ jobs:
 
     - name: Validate JSON output
       run: |
-        python -c "
+        python3 -c "
         import json
         import sys
         
@@ -143,7 +126,7 @@ jobs:
 
     - name: Generate HTML output
       run: |
-        python scripts/generate_html.py "${{ github.event.inputs.filename }}" "${{ github.event.inputs.difficulty }}" "${{ github.event.inputs.num_questions }}"
+        python3 scripts/generate_html.py "content.txt" "${{ github.event.inputs.difficulty }}" "${{ github.event.inputs.num_questions }}"
 
     - name: Commit and push results
       run: |
@@ -152,14 +135,14 @@ jobs:
         
         # Add generated files
         git add mcq_output.json
-        git add extracted_text.txt
-        git add "results/mcqs_${{ github.event.inputs.filename }}.html"
+        git add content.txt
+        git add "results/mcqs_content.txt.html"
         
         # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Generated MCQs for ${{ github.event.inputs.filename }} (Difficulty: ${{ github.event.inputs.difficulty }}, Questions: ${{ github.event.inputs.num_questions }})"
+          git commit -m "Generated MCQs from content (Difficulty: ${{ github.event.inputs.difficulty }}, Questions: ${{ github.event.inputs.num_questions }})"
           git push
           echo "Results committed and pushed successfully"
         fi
@@ -167,4 +150,4 @@ jobs:
     - name: Cleanup temporary files
       if: always()
       run: |
-        rm -f prompt.txt ollama_error.log extracted_text.txt
+        rm -f prompt.txt ollama_error.log content.txt
