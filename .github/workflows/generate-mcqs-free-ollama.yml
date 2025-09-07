@@ -3,6 +3,10 @@ name: Generate MCQs with Free Ollama on GitHub
 on:
   workflow_dispatch:
     inputs:
+      filename:
+        description: 'Name of the uploaded file'
+        required: true
+        type: string
       content:
         description: 'Text content to generate MCQs from'
         required: true
@@ -52,6 +56,7 @@ jobs:
           exit 1
         fi
         echo "Content verification successful. Content length: $(wc -c < content.txt) characters"
+        echo "Processing file: ${{ github.event.inputs.filename }}"
 
     - name: Generate MCQs with Ollama
       run: |
