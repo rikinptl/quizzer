@@ -169,7 +169,18 @@ jobs:
 
     - name: Generate HTML output
       run: |
-        python3 scripts/generate_html.py "content.txt" "${{ github.event.inputs.difficulty }}" "${{ github.event.inputs.num_questions }}"
+        # Create results directory
+        mkdir -p results
+        
+        # Generate HTML output
+        python3 scripts/generate_html.py "${{ github.event.inputs.filename }}" "${{ github.event.inputs.difficulty }}" "${{ github.event.inputs.num_questions }}"
+        
+        # Verify HTML was created
+        if [ ! -f "results/mcqs_${{ github.event.inputs.filename }}.html" ]; then
+          echo "Error: HTML output not generated"
+          exit 1
+        fi
+        echo "HTML output generated successfully"
 
     - name: Commit and push results
       run: |
@@ -179,13 +190,13 @@ jobs:
         # Add generated files
         git add mcq_output.json
         git add content.txt
-        git add "results/mcqs_content.txt.html"
+        git add "results/mcqs_${{ github.event.inputs.filename }}.html"
         
         # Check if there are changes to commit
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "Generated MCQs from content (Difficulty: ${{ github.event.inputs.difficulty }}, Questions: ${{ github.event.inputs.num_questions }})"
+          git commit -m "Generated MCQs from ${{ github.event.inputs.filename }} (Difficulty: ${{ github.event.inputs.difficulty }}, Questions: ${{ github.event.inputs.num_questions }})"
           git push
           echo "Results committed and pushed successfully"
         fi
