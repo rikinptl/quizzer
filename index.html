@@ -122,6 +122,44 @@
             transform: none;
         }
 
+        .instructions {
+            background: #e3f2fd;
+            border-radius: 10px;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-left: 4px solid #2196f3;
+        }
+
+        .instructions h3 {
+            color: #1976d2;
+            margin-bottom: 10px;
+        }
+
+        .instructions ol {
+            margin-left: 20px;
+        }
+
+        .instructions li {
+            margin-bottom: 8px;
+            color: #424242;
+        }
+
+        .workflow-link {
+            display: inline-block;
+            background: #28a745;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            margin-top: 15px;
+            transition: background 0.3s ease;
+        }
+
+        .workflow-link:hover {
+            background: #218838;
+        }
+
         .results-section {
             margin-top: 30px;
         }
@@ -235,6 +273,14 @@
             border: 1px solid #c3e6cb;
         }
 
+        .file-info {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 15px 0;
+            border: 1px solid #dee2e6;
+        }
+
         @media (max-width: 768px) {
             .form-row {
                 grid-template-columns: 1fr;
@@ -258,6 +304,18 @@
         </div>
 
         <div class="main-content">
+            <div class="instructions">
+                <h3>🚀 How to Use This System</h3>
+                <ol>
+                    <li><strong>Upload your PDF/PPT file</strong> using the form below</li>
+                    <li><strong>Select difficulty and number of questions</strong></li>
+                    <li><strong>Click "Generate MCQs"</strong> to prepare your request</li>
+                    <li><strong>Click the "Run Workflow" button</strong> to trigger the AI processing</li>
+                    <li><strong>Wait 3-5 minutes</strong> for processing to complete</li>
+                    <li><strong>Refresh this page</strong> to see your generated MCQs!</li>
+                </ol>
+            </div>
+
             <div class="upload-section">
                 <h3>Upload Document</h3>
                 <form class="upload-form" id="uploadForm">
@@ -286,6 +344,26 @@
                         Generate MCQs
                     </button>
                 </form>
+
+                <div id="fileInfo" class="file-info" style="display: none;">
+                    <h4>📄 File Ready for Processing</h4>
+                    <p><strong>File:</strong> <span id="fileName"></span></p>
+                    <p><strong>Difficulty:</strong> <span id="fileDifficulty"></span></p>
+                    <p><strong>Questions:</strong> <span id="fileQuestions"></span></p>
+                    <p><strong>Status:</strong> Ready to process</p>
+                </div>
+
+                <div id="workflowSection" style="display: none;">
+                    <h4>🎯 Ready to Process!</h4>
+                    <p>Your file is ready. Click the button below to start the AI processing:</p>
+                    <a href="https://github.com/rikinptl/quizzer/actions/workflows/generate-mcqs-codespaces.yml" 
+                       target="_blank" class="workflow-link">
+                        🚀 Run Workflow Now
+                    </a>
+                    <p style="margin-top: 10px; font-size: 0.9rem; color: #6c757d;">
+                        This will open GitHub Actions where you can manually trigger the workflow with your file parameters.
+                    </p>
+                </div>
             </div>
 
             <div id="statusMessage"></div>
@@ -301,17 +379,18 @@
     </div>
 
     <script>
-        let currentFilename = null;
+        let currentFileData = null;
 
-        document.getElementById('uploadForm').addEventListener('submit', async function(e) {
+        document.getElementById('uploadForm').addEventListener('submit', function(e) {
             e.preventDefault();
             
             const fileInput = document.getElementById('fileInput');
             const difficulty = document.getElementById('difficulty').value;
             const numQuestions = document.getElementById('numQuestions').value;
             const submitBtn = document.getElementById('submitBtn');
+            const fileInfo = document.getElementById('fileInfo');
+            const workflowSection = document.getElementById('workflowSection');
             const statusMessage = document.getElementById('statusMessage');
-            const resultsSection = document.getElementById('resultsSection');
 
             if (!fileInput.files[0]) {
                 showMessage('Please select a file to upload.', 'error');
@@ -319,90 +398,43 @@
             }
 
             const file = fileInput.files[0];
-            currentFilename = file.name;
+            
+            // Store file data for manual workflow trigger
+            currentFileData = {
+                filename: file.name,
+                difficulty: difficulty,
+                numQuestions: numQuestions
+            };
 
-            // Show loading state
-            submitBtn.disabled = true;
-            submitBtn.textContent = 'Processing...';
-            showMessage('Uploading file and generating MCQs. This may take a few minutes...', 'loading');
-
-            try {
-                // Upload file to uploads directory
-                await uploadFile(file);
-                
-                // Trigger GitHub Action
-                await triggerWorkflow(file.name, difficulty, numQuestions);
-                
-                showMessage('MCQ generation started! Please wait for processing to complete.', 'success');
-                
-                // Start polling for results
-                pollForResults(file.name);
-                
-            } catch (error) {
-                console.error('Error:', error);
-                showMessage('Error: ' + error.message, 'error');
-                submitBtn.disabled = false;
-                submitBtn.textContent = 'Generate MCQs';
-            }
+            // Show file info
+            document.getElementById('fileName').textContent = file.name;
+            document.getElementById('fileDifficulty').textContent = difficulty.charAt(0).toUpperCase() + difficulty.slice(1);
+            document.getElementById('fileQuestions').textContent = numQuestions;
+            
+            fileInfo.style.display = 'block';
+            workflowSection.style.display = 'block';
+            
+            showMessage('File ready! Click "Run Workflow Now" to start processing.', 'success');
+            
+            // Update workflow link with parameters
+            const workflowUrl = `https://github.com/rikinptl/quizzer/actions/workflows/generate-mcqs-codespaces.yml`;
+            const workflowLink = document.querySelector('.workflow-link');
+            workflowLink.href = workflowUrl;
         });
 
-        async function uploadFile(file) {
-            const formData = new FormData();
-            formData.append('file', file);
+        function showMessage(message, type) {
+            const statusMessage = document.getElementById('statusMessage');
             
-            // In a real implementation, you'd upload to your server
-            // For GitHub Pages, we'll simulate this step
-            console.log('File upload simulated:', file.name);
-        }
-
-        async function triggerWorkflow(filename, difficulty, numQuestions) {
-            // This would trigger the GitHub Action via API
-            // For demo purposes, we'll simulate this
-            console.log('Workflow triggered:', { filename, difficulty, numQuestions });
-            
-            // Simulate API call to GitHub Actions
-            const response = await fetch('/api/trigger-workflow', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({
-                    filename,
-                    difficulty,
-                    numQuestions
-                })
-            });
-            
-            if (!response.ok) {
-                throw new Error('Failed to trigger workflow');
+            if (type === 'loading') {
+                statusMessage.innerHTML = `
+                    <div class="loading">
+                        <div class="spinner"></div>
+                        ${message}
+                    </div>
+                `;
+            } else {
+                statusMessage.innerHTML = `<div class="${type}">${message}</div>`;
             }
-        }
-
-        function pollForResults(filename) {
-            const pollInterval = setInterval(async () => {
-                try {
-                    const results = await loadResults();
-                    if (results && results.length > 0) {
-                        clearInterval(pollInterval);
-                        displayResults(results);
-                        showMessage('MCQs generated successfully!', 'success');
-                        document.getElementById('submitBtn').disabled = false;
-                        document.getElementById('submitBtn').textContent = 'Generate MCQs';
-                    }
-                } catch (error) {
-                    console.log('Still processing...');
-                }
-            }, 10000); // Poll every 10 seconds
-
-            // Stop polling after 5 minutes
-            setTimeout(() => {
-                clearInterval(pollInterval);
-                if (document.getElementById('submitBtn').disabled) {
-                    showMessage('Processing is taking longer than expected. Please check back later.', 'error');
-                    document.getElementById('submitBtn').disabled = false;
-                    document.getElementById('submitBtn').textContent = 'Generate MCQs';
-                }
-            }, 300000);
         }
 
         async function loadResults() {
@@ -414,9 +446,11 @@
                 }
                 
                 const results = await response.json();
-                return results;
+                displayResults(results);
+                showMessage('MCQs loaded successfully!', 'success');
+                
             } catch (error) {
-                throw error;
+                showMessage('No results found yet. Make sure the workflow has completed successfully.', 'error');
             }
         }
 
@@ -438,7 +472,7 @@
                         ).join('')}
                     </div>
                     <div class="mcq-explanation">
-                        <strong>Explanation:</strong> ${mcq.explanation}
+                        <strong>💡 Explanation:</strong> ${mcq.explanation}
                     </div>
                 `;
                 
@@ -448,31 +482,21 @@
             resultsSection.style.display = 'block';
         }
 
-        function showMessage(message, type) {
-            const statusMessage = document.getElementById('statusMessage');
-            
-            if (type === 'loading') {
-                statusMessage.innerHTML = `
-                    <div class="loading">
-                        <div class="spinner"></div>
-                        ${message}
-                    </div>
-                `;
-            } else {
-                statusMessage.innerHTML = `<div class="${type}">${message}</div>`;
-            }
-        }
-
         // Load existing results on page load
         window.addEventListener('load', () => {
-            loadResults().then(results => {
-                if (results && results.length > 0) {
-                    displayResults(results);
-                }
-            }).catch(() => {
+            loadResults().catch(() => {
                 // No existing results, that's fine
             });
         });
+
+        // Auto-refresh every 30 seconds to check for new results
+        setInterval(() => {
+            if (document.getElementById('resultsSection').style.display === 'none') {
+                loadResults().catch(() => {
+                    // No results yet, continue checking
+                });
+            }
+        }, 30000);
     </script>
 </body>
 </html>
