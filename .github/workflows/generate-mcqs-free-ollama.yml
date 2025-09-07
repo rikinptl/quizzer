@@ -36,12 +36,32 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         fetch-depth: 0
+        persist-credentials: true
+
+    - name: Cache Ollama
+      uses: actions/cache@v3
+      with:
+        path: ~/.ollama
+        key: ollama-${{ runner.os }}-${{ hashFiles('**/Modelfile') }}
+        restore-keys: |
+          ollama-${{ runner.os }}-
 
     - name: Install Ollama
       run: |
-        curl -fsSL https://ollama.ai/install.sh | sh
+        # Check if Ollama is already installed and cached
+        if ! command -v ollama &> /dev/null; then
+          echo "Installing Ollama..."
+          curl -fsSL https://ollama.ai/install.sh | sh
+        else
+          echo "Ollama already installed"
+        fi
+        
+        # Start Ollama service
         ollama serve &
-        sleep 15
+        sleep 10
+        
+        # Pull llama2 model (will use cache if available)
+        echo "Pulling llama2 model..."
         ollama pull llama2
 
     - name: Create content file
@@ -184,6 +204,7 @@ jobs:
 
     - name: Commit and push results
       run: |
+        # Configure git
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
@@ -197,7 +218,9 @@ jobs:
           echo "No changes to commit"
         else
           git commit -m "Generated MCQs from ${{ github.event.inputs.filename }} (Difficulty: ${{ github.event.inputs.difficulty }}, Questions: ${{ github.event.inputs.num_questions }})"
-          git push
+          
+          # Push with proper authentication
+          git push origin HEAD:main
           echo "Results committed and pushed successfully"
         fi
 
