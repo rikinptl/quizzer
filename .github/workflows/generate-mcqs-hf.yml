@@ -1,0 +1,88 @@
+name: Generate MCQs with Hugging Face API
+
+on:
+  workflow_dispatch:
+    inputs:
+      filename:
+        description: 'Name of the uploaded file (PDF/PPT)'
+        required: true
+        type: string
+      difficulty:
+        description: 'Difficulty level'
+        required: false
+        default: 'medium'
+        type: choice
+        options:
+        - easy
+        - medium
+        - hard
+      num_questions:
+        description: 'Number of MCQs to generate'
+        required: false
+        default: '5'
+        type: string
+
+jobs:
+  generate-mcqs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install Python dependencies
+      run: |
+        pip install PyPDF2 python-pptx python-docx transformers torch requests
+
+    - name: Verify file exists
+      run: |
+        if [ ! -f "uploads/${{ github.event.inputs.filename }}" ]; then
+          echo "Error: File uploads/${{ github.event.inputs.filename }} not found"
+          exit 1
+        fi
+        echo "File found: uploads/${{ github.event.inputs.filename }}"
+
+    - name: Extract text from document
+      run: |
+        python scripts/extract_text.py "uploads/${{ github.event.inputs.filename }}" > extracted_text.txt
+        echo "Text extraction completed"
+
+    - name: Generate MCQs with Hugging Face
+      run: |
+        python scripts/generate_mcqs_hf.py "${{ github.event.inputs.filename }}" "${{ github.event.inputs.difficulty }}" "${{ github.event.inputs.num_questions }}"
+
+    - name: Generate HTML output
+      run: |
+        python scripts/generate_html.py "${{ github.event.inputs.filename }}" "${{ github.event.inputs.difficulty }}" "${{ github.event.inputs.num_questions }}"
+
+    - name: Commit and push results
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add generated files
+        git add mcq_output.json
+        git add extracted_text.txt
+        git add "results/mcqs_${{ github.event.inputs.filename }}.html"
+        
+        # Check if there are changes to commit
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Generated MCQs for ${{ github.event.inputs.filename }} (Difficulty: ${{ github.event.inputs.difficulty }}, Questions: ${{ github.event.inputs.num_questions }})"
+          git push
+          echo "Results committed and pushed successfully"
+        fi
+
+    - name: Cleanup temporary files
+      if: always()
+      run: |
+        rm -f extracted_text.txt
