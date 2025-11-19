@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-5567)
 - [Human-Aligned Decision Transformers for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/human-aligned-decision-transformers-for-bio-inspired-soft-robotics-maintenance-with-embodied-agent-2e6g)
 - [Sparse Federated Representation Learning for autonomous urban air mobility routing with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-with-embodied-2i9a)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-in-hybrid-2pj2)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-across-5eib)
-- [Meta-Optimized Continual Adaptation for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-with-inverse-2d85)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
