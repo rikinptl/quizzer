@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-with-embodied-agent-20j8)
 - [Probabilistic Graph Neural Inference for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-with-ethical-2ol3)
 - [Generative Simulation Benchmarking for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-satellite-anomaly-response-operations-for-extreme-data-46ei)
 - [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-5567)
 - [Human-Aligned Decision Transformers for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/human-aligned-decision-transformers-for-bio-inspired-soft-robotics-maintenance-with-embodied-agent-2e6g)
-- [Sparse Federated Representation Learning for autonomous urban air mobility routing with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-with-embodied-2i9a)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
