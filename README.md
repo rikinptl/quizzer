@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-zero-trust-4kog)
 - [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-under-2hha)
 - [Probabilistic Graph Neural Inference for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-with-embodied-agent-24o7)
 - [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-with-embodied-agent-20j8)
 - [Probabilistic Graph Neural Inference for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-with-ethical-2ol3)
-- [Generative Simulation Benchmarking for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-satellite-anomaly-response-operations-for-extreme-data-46ei)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
