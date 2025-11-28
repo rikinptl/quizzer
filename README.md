@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for circular manufacturing supply chains across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-across-36k2)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-9gk)
 - [Probabilistic Graph Neural Inference for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-for-low-power-autonomous-1mgl)
 - [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-zero-trust-4kog)
 - [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-under-2hha)
-- [Probabilistic Graph Neural Inference for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-with-embodied-agent-24o7)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
