@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-in-carbon-negative-2bc2)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-with-ethical-auditability-2e5b)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-across-36k2)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-9gk)
 - [Probabilistic Graph Neural Inference for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-for-low-power-autonomous-1mgl)
-- [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-zero-trust-4kog)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
