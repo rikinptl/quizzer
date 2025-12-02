@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-under-real-time-policy-1cl8)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-with-ethical-auditability-1p0i)
 - [Probabilistic Graph Neural Inference for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-in-carbon-negative-2bc2)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-with-ethical-auditability-2e5b)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-across-36k2)
-- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-9gk)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
