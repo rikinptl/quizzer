@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-under-14al)
 - [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design for low-power autonomous deployments](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-for-low-power-2i47)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-under-real-time-32n8)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-under-real-time-policy-1cl8)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-with-ethical-auditability-1p0i)
-- [Probabilistic Graph Neural Inference for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-in-carbon-negative-2bc2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
