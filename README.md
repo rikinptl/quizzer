@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for coastal climate resilience planning with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-zero-trust-4m84)
 - [Probabilistic Graph Neural Inference for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-during-2d36)
 - [Physics-Augmented Diffusion Modeling for satellite anomaly response operations across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-satellite-anomaly-response-operations-across-multilingual-19nj)
 - [Sparse Federated Representation Learning for heritage language revitalization programs under multi-jurisdictional compliance](https://dev.to/rikinptl/sparse-federated-representation-learning-for-heritage-language-revitalization-programs-under-57if)
 - [Physics-Augmented Diffusion Modeling for coastal climate resilience planning with zero-trust governance guarantees](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-coastal-climate-resilience-planning-with-zero-trust-a1j)
-- [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-under-14al)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
