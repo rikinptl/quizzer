@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-under-2n3d)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-extreme-data-sparsity-500h)
 - [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs under multi-jurisdictional compliance](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-under-40mn)
 - [Sparse Federated Representation Learning for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-sustainable-aquaculture-monitoring-systems-for-34j2)
 - [Meta-Optimized Continual Adaptation for coastal climate resilience planning with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-zero-trust-4m84)
-- [Probabilistic Graph Neural Inference for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-during-2d36)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
