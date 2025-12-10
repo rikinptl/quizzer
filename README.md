@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-with-zero-trust-dp2)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-across-1dnn)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-under-2n3d)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-extreme-data-sparsity-500h)
 - [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs under multi-jurisdictional compliance](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-under-40mn)
-- [Sparse Federated Representation Learning for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-sustainable-aquaculture-monitoring-systems-for-34j2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
