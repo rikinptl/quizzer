@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-with-embodied-agent-517i)
 - [Physics-Augmented Diffusion Modeling for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-wildfire-evacuation-logistics-networks-for-low-power-53p8)
 - [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-with-zero-trust-dp2)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-across-1dnn)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-under-2n3d)
-- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-extreme-data-sparsity-500h)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
