@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-in-hybrid-2cpn)
 - [Privacy-Preserving Active Learning for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/privacy-preserving-active-learning-for-wildfire-evacuation-logistics-networks-with-zero-trust-38n0)
 - [Generative Simulation Benchmarking for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-wildfire-evacuation-logistics-networks-for-low-power-1g02)
 - [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-with-embodied-agent-517i)
 - [Physics-Augmented Diffusion Modeling for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-wildfire-evacuation-logistics-networks-for-low-power-53p8)
-- [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-with-zero-trust-dp2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
