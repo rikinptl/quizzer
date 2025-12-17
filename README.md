@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for planetary geology survey missions in hybrid quantum-classical pipelines](https://dev.to/rikinptl/sparse-federated-representation-learning-for-planetary-geology-survey-missions-in-hybrid-15f2)
 - [Generative Simulation Benchmarking for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-for-extreme-data-1a59)
 - [Human-Aligned Decision Transformers for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/human-aligned-decision-transformers-for-smart-agriculture-microgrid-orchestration-with-inverse-4j4k)
 - [Cross-Modal Knowledge Distillation for circular manufacturing supply chains for low-power autonomous deployments](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-circular-manufacturing-supply-chains-for-low-power-235l)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-with-embodied-agent-1con)
-- [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-during-1bm5)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
