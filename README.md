@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for circular manufacturing supply chains for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-for-low-power-5aga)
 - [Adaptive Neuro-Symbolic Planning for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-circular-manufacturing-supply-chains-during-mission-critical-5f2o)
 - [Cross-Modal Knowledge Distillation for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-heritage-language-revitalization-programs-across-49lh)
 - [Privacy-Preserving Active Learning for deep-sea exploration habitat design under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-under-real-time-policy-14l0)
 - [Sparse Federated Representation Learning for planetary geology survey missions in hybrid quantum-classical pipelines](https://dev.to/rikinptl/sparse-federated-representation-learning-for-planetary-geology-survey-missions-in-hybrid-15f2)
-- [Generative Simulation Benchmarking for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-for-extreme-data-1a59)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
