@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/human-aligned-decision-transformers-for-circular-manufacturing-supply-chains-under-real-time-policy-3kl5)
 - [Meta-Optimized Continual Adaptation for autonomous urban air mobility routing with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-autonomous-urban-air-mobility-routing-with-ethical-33fa)
 - [Privacy-Preserving Active Learning for precision oncology clinical workflows with ethical auditability baked in](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-with-ethical-5eep)
 - [Adaptive Neuro-Symbolic Planning for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-sustainable-aquaculture-monitoring-systems-with-ethical-14e8)
 - [Adaptive Neuro-Symbolic Planning for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-smart-agriculture-microgrid-orchestration-in-hybrid-52m9)
-- [Human-Aligned Decision Transformers for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-for-extreme-data-4fln)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
