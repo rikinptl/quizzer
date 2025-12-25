@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-with-embodied-3pak)
 - [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-2837)
 - [Adaptive Neuro-Symbolic Planning for coastal climate resilience planning with embodied agent feedback loops](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-coastal-climate-resilience-planning-with-embodied-agent-4hj3)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-with-inverse-simulation-iil)
 - [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-with-ethical-3c6m)
-- [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-across-5eb7)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
