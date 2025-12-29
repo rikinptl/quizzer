@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-with-zero-trust-35fh)
 - [Human-Aligned Decision Transformers for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-smart-agriculture-microgrid-orchestration-with-zero-trust-d3n)
 - [Privacy-Preserving Active Learning for planetary geology survey missions with zero-trust governance guarantees](https://dev.to/rikinptl/privacy-preserving-active-learning-for-planetary-geology-survey-missions-with-zero-trust-governance-1f15)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-with-embodied-3ai4)
 - [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-across-240e)
-- [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-with-embodied-agent-28a3)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
