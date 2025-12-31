@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-for-low-power-autonomous-b12)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning across multilingual stakeholder groups](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-across-multilingual-48ki)
 - [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration in carbon-negative infrastructure](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-in-46pb)
 - [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-under-3aid)
 - [Self-Supervised Temporal Pattern Mining for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-wildfire-evacuation-logistics-networks-under-real-time-45a3)
-- [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-with-zero-trust-35fh)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
