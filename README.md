@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for heritage language revitalization programs in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-in-hybrid-1lk)
 - [Adaptive Neuro-Symbolic Planning for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-heritage-language-revitalization-programs-with-ethical-2op4)
 - [Meta-Optimized Continual Adaptation for heritage language revitalization programs under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-under-3oh4)
 - [Generative Simulation Benchmarking for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-under-real-time-policy-eh6)
 - [Cross-Modal Knowledge Distillation for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-circular-manufacturing-supply-chains-in-hybrid-432c)
-- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-for-low-power-autonomous-b12)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
