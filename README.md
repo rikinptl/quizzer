@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for coastal climate resilience planning with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-zero-trust-4nc9)
 - [Self-Supervised Temporal Pattern Mining for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-wildfire-evacuation-logistics-networks-for-low-power-4l0a)
 - [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-under-2f92)
 - [Physics-Augmented Diffusion Modeling for heritage language revitalization programs in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-in-hybrid-1lk)
 - [Adaptive Neuro-Symbolic Planning for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-heritage-language-revitalization-programs-with-ethical-2op4)
-- [Meta-Optimized Continual Adaptation for heritage language revitalization programs under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-under-3oh4)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
