@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for autonomous urban air mobility routing with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-autonomous-urban-air-mobility-routing-with-embodied-agent-41b7)
 - [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-inverse-2p4g)
 - [Physics-Augmented Diffusion Modeling for sustainable aquaculture monitoring systems in carbon-negative infrastructure](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-sustainable-aquaculture-monitoring-systems-in-345b)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-with-inverse-f46)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-under-3jep)
-- [Meta-Optimized Continual Adaptation for coastal climate resilience planning with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-zero-trust-4nc9)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
