@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for autonomous urban air mobility routing across multilingual stakeholder groups](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-across-multilingual-3f90)
 - [Privacy-Preserving Active Learning for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-for-low-power-3m52)
 - [Generative Simulation Benchmarking for smart agriculture microgrid orchestration for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-for-low-power-khp)
 - [Human-Aligned Decision Transformers for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/human-aligned-decision-transformers-for-circular-manufacturing-supply-chains-with-embodied-agent-502h)
 - [Physics-Augmented Diffusion Modeling for autonomous urban air mobility routing with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-autonomous-urban-air-mobility-routing-with-embodied-agent-41b7)
-- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-inverse-2p4g)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
