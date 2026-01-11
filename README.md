@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-under-real-time-48ap)
 - [Physics-Augmented Diffusion Modeling for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-in-carbon-negative-138o)
 - [Sparse Federated Representation Learning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-heritage-language-revitalization-programs-with-inverse-3gi9)
 - [Probabilistic Graph Neural Inference for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-wildfire-evacuation-logistics-networks-under-real-time-4jj)
 - [Generative Simulation Benchmarking for autonomous urban air mobility routing across multilingual stakeholder groups](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-across-multilingual-3f90)
-- [Privacy-Preserving Active Learning for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-for-low-power-3m52)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
