@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-autonomous-urban-air-mobility-routing-under-real-time-14n5)
 - [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-under-pe5)
 - [Meta-Optimized Continual Adaptation for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-across-2h27)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design with inverse simulation verification](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-with-inverse-529n)
 - [Meta-Optimized Continual Adaptation for satellite anomaly response operations in hybrid quantum-classical pipelines](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-satellite-anomaly-response-operations-in-hybrid-51hi)
-- [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-under-real-time-48ap)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
