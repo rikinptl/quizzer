@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for deep-sea exploration habitat design in carbon-negative infrastructure](https://dev.to/rikinptl/sparse-federated-representation-learning-for-deep-sea-exploration-habitat-design-in-carbon-negative-204o)
 - [Adaptive Neuro-Symbolic Planning for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-sustainable-aquaculture-monitoring-systems-for-low-power-2624)
 - [Physics-Augmented Diffusion Modeling for circular manufacturing supply chains across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-circular-manufacturing-supply-chains-across-multilingual-5753)
 - [Human-Aligned Decision Transformers for satellite anomaly response operations under multi-jurisdictional compliance](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-under-1l6l)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-under-real-time-policy-377h)
-- [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-under-real-time-2lpo)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
