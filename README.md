@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for planetary geology survey missions with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-with-zero-trust-28cc)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-with-zero-trust-2782)
 - [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-with-zero-trust-4m1b)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design in carbon-negative infrastructure](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-in-carbon-negative-2m0o)
 - [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-with-zero-trust-3cdc)
-- [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-under-mc6)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
