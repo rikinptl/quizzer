@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-for-extreme-data-3j8a)
 - [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-across-2pj)
 - [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-during-mission-critical-9ee)
 - [Meta-Optimized Continual Adaptation for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-for-extreme-data-5e91)
 - [Edge-to-Cloud Swarm Coordination for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-bio-inspired-soft-robotics-maintenance-with-ethical-o32)
-- [Human-Aligned Decision Transformers for planetary geology survey missions with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-with-zero-trust-28cc)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
