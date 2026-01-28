@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for precision oncology clinical workflows with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-precision-oncology-clinical-workflows-with-zero-trust-38lb)
 - [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance for low-power autonomous deployments](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-for-low-power-3c62)
 - [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-for-extreme-data-33i)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-for-extreme-data-4keg)
 - [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-under-real-time-policy-5bp4)
-- [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-under-5225)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
