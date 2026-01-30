@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-under-real-time-policy-58eg)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-with-inverse-simulation-48g2)
 - [Generative Simulation Benchmarking for coastal climate resilience planning during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-during-mission-critical-2l1j)
 - [Self-Supervised Temporal Pattern Mining for precision oncology clinical workflows in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-precision-oncology-clinical-workflows-in-hybrid-3dda)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-low-power-autonomous-2iol)
-- [Human-Aligned Decision Transformers for precision oncology clinical workflows with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-precision-oncology-clinical-workflows-with-zero-trust-38lb)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
