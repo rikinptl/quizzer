@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-with-embodied-agent-16oa)
 - [Generative Simulation Benchmarking for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-under-real-time-policy-4jc9)
 - [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-in-hybrid-56e8)
 - [Explainable Causal Reinforcement Learning for coastal climate resilience planning with zero-trust governance guarantees](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-coastal-climate-resilience-planning-with-zero-trust-356j)
 - [Physics-Augmented Diffusion Modeling for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-under-real-time-policy-58eg)
-- [Privacy-Preserving Active Learning for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-with-inverse-simulation-48g2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
