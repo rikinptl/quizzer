@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-with-inverse-4aj9)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-for-extreme-data-sparsity-3ck6)
 - [Meta-Optimized Continual Adaptation for autonomous urban air mobility routing across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-autonomous-urban-air-mobility-routing-across-multilingual-3602)
 - [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-for-low-power-fml)
 - [Sparse Federated Representation Learning for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/sparse-federated-representation-learning-for-heritage-language-revitalization-programs-with-32m5)
-- [Edge-to-Cloud Swarm Coordination for smart agriculture microgrid orchestration in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-smart-agriculture-microgrid-orchestration-in-carbon-negative-2b8k)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
