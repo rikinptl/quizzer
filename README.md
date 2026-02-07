@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-under-4a3k)
 - [Generative Simulation Benchmarking for sustainable aquaculture monitoring systems for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-sustainable-aquaculture-monitoring-systems-for-extreme-data-3g9n)
 - [Sparse Federated Representation Learning for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-with-inverse-4aj9)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-for-extreme-data-sparsity-3ck6)
 - [Meta-Optimized Continual Adaptation for autonomous urban air mobility routing across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-autonomous-urban-air-mobility-routing-across-multilingual-3602)
-- [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-for-low-power-fml)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
