@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-smart-agriculture-microgrid-orchestration-in-hybrid-1c2e)
 - [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-with-embodied-agent-2d9p)
 - [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-under-4a3k)
 - [Generative Simulation Benchmarking for sustainable aquaculture monitoring systems for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-sustainable-aquaculture-monitoring-systems-for-extreme-data-3g9n)
 - [Sparse Federated Representation Learning for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-with-inverse-4aj9)
-- [Edge-to-Cloud Swarm Coordination for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-for-extreme-data-sparsity-3ck6)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
