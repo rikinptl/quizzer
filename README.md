@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-with-embodied-4iio)
 - [Probabilistic Graph Neural Inference for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-autonomous-urban-air-mobility-routing-for-low-power-1a17)
 - [Adaptive Neuro-Symbolic Planning for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-smart-agriculture-microgrid-orchestration-in-hybrid-1c2e)
 - [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-with-embodied-agent-2d9p)
 - [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-under-4a3k)
-- [Generative Simulation Benchmarking for sustainable aquaculture monitoring systems for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-sustainable-aquaculture-monitoring-systems-for-extreme-data-3g9n)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
