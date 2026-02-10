@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-deep-sea-exploration-habitat-design-with-zero-trust-governance-833)
 - [Edge-to-Cloud Swarm Coordination for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-bio-inspired-soft-robotics-maintenance-across-multilingual-34im)
 - [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-under-real-time-policy-dek)
 - [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-with-embodied-4iio)
 - [Probabilistic Graph Neural Inference for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-autonomous-urban-air-mobility-routing-for-low-power-1a17)
-- [Adaptive Neuro-Symbolic Planning for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-smart-agriculture-microgrid-orchestration-in-hybrid-1c2e)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
