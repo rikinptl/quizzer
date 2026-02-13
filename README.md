@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-during-3ig7)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-across-multilingual-58ff)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-across-multilingual-jgd)
 - [Human-Aligned Decision Transformers for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/human-aligned-decision-transformers-for-smart-agriculture-microgrid-orchestration-with-embodied-2dpo)
 - [Human-Aligned Decision Transformers for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-during-1d87)
-- [Edge-to-Cloud Swarm Coordination for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-deep-sea-exploration-habitat-design-with-zero-trust-governance-833)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
