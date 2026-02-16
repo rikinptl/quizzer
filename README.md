@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for wildfire evacuation logistics networks with inverse simulation verification](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-with-inverse-4hpe)
 - [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-during-mission-critical-37j6)
 - [Probabilistic Graph Neural Inference for heritage language revitalization programs for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-heritage-language-revitalization-programs-for-low-power-3jcp)
 - [Human-Aligned Decision Transformers for planetary geology survey missions during mission-critical recovery windows](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-during-mission-critical-116b)
 - [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-with-inverse-1bo0)
-- [Explainable Causal Reinforcement Learning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-with-18m4)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
