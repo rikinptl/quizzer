@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-during-mission-critical-56ld)
 - [Adaptive Neuro-Symbolic Planning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-deep-sea-exploration-habitat-design-across-multilingual-1bdl)
 - [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-in-hybrid-1m38)
 - [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-with-ethical-27lf)
 - [Sparse Federated Representation Learning for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-circular-manufacturing-supply-chains-during-524n)
-- [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-with-ethical-53fd)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
