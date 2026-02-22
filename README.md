@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-during-4hjd)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-with-inverse-2880)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-under-real-time-policy-l2n)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-with-zero-trust-7l3)
 - [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-during-mission-critical-56ld)
-- [Adaptive Neuro-Symbolic Planning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-deep-sea-exploration-habitat-design-across-multilingual-1bdl)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
