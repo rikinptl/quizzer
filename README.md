@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-with-inverse-49f0)
 - [Physics-Augmented Diffusion Modeling for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-coastal-climate-resilience-planning-for-extreme-data-5f7j)
 - [Cross-Modal Knowledge Distillation for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-circular-manufacturing-supply-chains-with-embodied-agent-408l)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-during-4hjd)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-with-inverse-2880)
-- [Edge-to-Cloud Swarm Coordination for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-under-real-time-policy-l2n)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
