@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-a99)
 - [Privacy-Preserving Active Learning for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-for-extreme-data-27ol)
 - [Cross-Modal Knowledge Distillation for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-coastal-climate-resilience-planning-for-extreme-data-39jp)
 - [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-in-carbon-negative-mnl)
 - [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-with-inverse-49f0)
-- [Physics-Augmented Diffusion Modeling for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-coastal-climate-resilience-planning-for-extreme-data-5f7j)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
