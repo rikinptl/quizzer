@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for deep-sea exploration habitat design with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-deep-sea-exploration-habitat-design-with-ethical-auditability-2717)
 - [Self-Supervised Temporal Pattern Mining for wildfire evacuation logistics networks across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-wildfire-evacuation-logistics-networks-across-lc0)
 - [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-a99)
 - [Privacy-Preserving Active Learning for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-for-extreme-data-27ol)
 - [Cross-Modal Knowledge Distillation for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-coastal-climate-resilience-planning-for-extreme-data-39jp)
-- [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-in-carbon-negative-mnl)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
