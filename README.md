@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-ethical-5b3d)
 - [Meta-Optimized Continual Adaptation for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-under-real-time-5565)
 - [Probabilistic Graph Neural Inference for coastal climate resilience planning with inverse simulation verification](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-with-inverse-27ek)
 - [Edge-to-Cloud Swarm Coordination for deep-sea exploration habitat design with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-deep-sea-exploration-habitat-design-with-ethical-auditability-2717)
 - [Self-Supervised Temporal Pattern Mining for wildfire evacuation logistics networks across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-wildfire-evacuation-logistics-networks-across-lc0)
-- [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-a99)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
