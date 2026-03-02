@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-across-366j)
 - [Physics-Augmented Diffusion Modeling for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-circular-manufacturing-supply-chains-with-inverse-fdh)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-embodied-agent-2d50)
 - [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems across multilingual stakeholder groups](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-across-446j)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-ethical-5b3d)
-- [Meta-Optimized Continual Adaptation for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-under-real-time-5565)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
