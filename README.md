@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for satellite anomaly response operations with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-satellite-anomaly-response-operations-with-inverse-1ggf)
 - [Privacy-Preserving Active Learning for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-with-embodied-agent-inn)
 - [Generative Simulation Benchmarking for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-planetary-geology-survey-missions-in-carbon-negative-1ff6)
 - [Physics-Augmented Diffusion Modeling for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-for-low-power-autonomous-3d4a)
 - [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-across-366j)
-- [Physics-Augmented Diffusion Modeling for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-circular-manufacturing-supply-chains-with-inverse-fdh)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
