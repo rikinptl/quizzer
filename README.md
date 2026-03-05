@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-precision-oncology-clinical-workflows-during-non)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
 - [Sparse Federated Representation Learning for satellite anomaly response operations with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-satellite-anomaly-response-operations-with-inverse-1ggf)
 - [Privacy-Preserving Active Learning for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-with-embodied-agent-inn)
 - [Generative Simulation Benchmarking for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-planetary-geology-survey-missions-in-carbon-negative-1ff6)
-- [Physics-Augmented Diffusion Modeling for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-for-low-power-autonomous-3d4a)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
