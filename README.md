@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-for-low-power-4b0g)
 - [Adaptive Neuro-Symbolic Planning for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-satellite-anomaly-response-operations-with-embodied-agent-4m62)
 - [Probabilistic Graph Neural Inference for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-for-extreme-data-4p61)
 - [Probabilistic Graph Neural Inference for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-precision-oncology-clinical-workflows-under-real-time-c53)
 - [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-under-353k)
-- [Edge-to-Cloud Swarm Coordination for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-smart-agriculture-microgrid-orchestration-during-5d3c)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
