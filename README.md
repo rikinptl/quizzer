@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-under-349o)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-with-inverse-a2h)
 - [Human-Aligned Decision Transformers for coastal climate resilience planning across multilingual stakeholder groups](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-across-multilingual-lp9)
 - [Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-autonomous-urban-air-mobility-routing-under-5g8i)
 - [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-under-real-time-policy-4mob)
-- [Generative Simulation Benchmarking for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-for-low-power-4b0g)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
