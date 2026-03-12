@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for planetary geology survey missions under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-planetary-geology-survey-missions-under-multi-jurisdictional-565m)
 - [Cross-Modal Knowledge Distillation for bio-inspired soft robotics maintenance for extreme data sparsity scenarios](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-bio-inspired-soft-robotics-maintenance-for-extreme-data-84i)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-with-zero-trust-442g)
 - [Sparse Federated Representation Learning for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-under-349o)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-with-inverse-a2h)
-- [Human-Aligned Decision Transformers for coastal climate resilience planning across multilingual stakeholder groups](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-across-multilingual-lp9)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
