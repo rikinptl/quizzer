@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for coastal climate resilience planning during mission-critical recovery windows](https://dev.to/rikinptl/privacy-preserving-active-learning-for-coastal-climate-resilience-planning-during-mission-critical-58bn)
 - [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-with-zero-trust-27a5)
 - [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-with-inverse-320p)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-across-29nf)
 - [Physics-Augmented Diffusion Modeling for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-smart-agriculture-microgrid-orchestration-under-20b4)
-- [Explainable Causal Reinforcement Learning for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-for-extreme-3lh)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
