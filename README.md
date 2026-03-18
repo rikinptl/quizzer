@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-satellite-anomaly-response-operations-for-low-power-6ch)
 - [Explainable Causal Reinforcement Learning for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-precision-oncology-clinical-workflows-under-real-time-38ip)
 - [Physics-Augmented Diffusion Modeling for wildfire evacuation logistics networks with ethical auditability baked in](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-wildfire-evacuation-logistics-networks-with-ethical-3g70)
 - [Cross-Modal Knowledge Distillation for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-satellite-anomaly-response-operations-during-52g6)
 - [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks for extreme data sparsity scenarios](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-for-extreme-data-4abh)
-- [Physics-Augmented Diffusion Modeling for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-sustainable-aquaculture-monitoring-systems-under-3ikh)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
