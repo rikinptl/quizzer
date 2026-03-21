@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for coastal climate resilience planning under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-coastal-climate-resilience-planning-under-25n8)
 - [Explainable Causal Reinforcement Learning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-with-2623)
 - [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-under-2m0p)
 - [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-under-5hmm)
 - [Generative Simulation Benchmarking for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-sustainable-aquaculture-monitoring-systems-with-ethical-fbm)
-- [Meta-Optimized Continual Adaptation for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-with-zero-trust-3p23)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
