@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-heritage-language-revitalization-programs-across-27h)
 - [Sparse Federated Representation Learning for autonomous urban air mobility routing with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-with-embodied-kdj)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-in-5dl7)
 - [Explainable Causal Reinforcement Learning for coastal climate resilience planning under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-coastal-climate-resilience-planning-under-25n8)
 - [Explainable Causal Reinforcement Learning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-with-2623)
-- [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-under-2m0p)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
