@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-with-ethical-auditability-4pnl)
 - [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-in-18j2)
 - [Edge-to-Cloud Swarm Coordination for precision oncology clinical workflows for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-precision-oncology-clinical-workflows-for-low-power-autonomous-p56)
 - [Human-Aligned Decision Transformers for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-with-embodied-1dhc)
 - [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-with-inverse-42co)
-- [Probabilistic Graph Neural Inference for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-heritage-language-revitalization-programs-across-27h)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
