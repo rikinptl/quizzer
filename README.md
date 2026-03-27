@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for circular manufacturing supply chains with zero-trust governance guarantees](https://dev.to/rikinptl/sparse-federated-representation-learning-for-circular-manufacturing-supply-chains-with-zero-trust-39g)
 - [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-with-embodied-agent-59a4)
 - [Physics-Augmented Diffusion Modeling for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-with-zero-trust-3jpa)
 - [Self-Supervised Temporal Pattern Mining for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-satellite-anomaly-response-operations-for-extreme-data-3hil)
 - [Cross-Modal Knowledge Distillation for heritage language revitalization programs in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-heritage-language-revitalization-programs-in-hybrid-52dj)
-- [Human-Aligned Decision Transformers for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-with-ethical-auditability-4pnl)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
