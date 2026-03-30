@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-sustainable-aquaculture-monitoring-systems-with-3o0h)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-under-2p52)
 - [Probabilistic Graph Neural Inference for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-circular-manufacturing-supply-chains-under-real-time-m9o)
 - [Cross-Modal Knowledge Distillation for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-planetary-geology-survey-missions-in-carbon-negative-4khd)
 - [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-under-real-time-3nci)
-- [Sparse Federated Representation Learning for circular manufacturing supply chains with zero-trust governance guarantees](https://dev.to/rikinptl/sparse-federated-representation-learning-for-circular-manufacturing-supply-chains-with-zero-trust-39g)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
