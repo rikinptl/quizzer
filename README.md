@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-under-real-time-policy-3ofg)
 - [Privacy-Preserving Active Learning for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-autonomous-urban-air-mobility-routing-under-real-time-policy-1b2o)
 - [Explainable Causal Reinforcement Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-sustainable-aquaculture-monitoring-systems-with-3o0h)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-under-2p52)
 - [Probabilistic Graph Neural Inference for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-circular-manufacturing-supply-chains-under-real-time-m9o)
-- [Cross-Modal Knowledge Distillation for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-planetary-geology-survey-missions-in-carbon-negative-4khd)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
