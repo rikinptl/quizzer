@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-during-4ihe)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-in-carbon-negative-3ae7)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-under-real-time-policy-3ofg)
 - [Privacy-Preserving Active Learning for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-autonomous-urban-air-mobility-routing-under-real-time-policy-1b2o)
 - [Explainable Causal Reinforcement Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-sustainable-aquaculture-monitoring-systems-with-3o0h)
-- [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-under-2p52)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
