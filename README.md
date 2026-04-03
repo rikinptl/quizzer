@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for heritage language revitalization programs in hybrid quantum-classical pipelines](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-in-hybrid-35f0)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-under-real-time-policy-40da)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-with-ethical-auditability-165f)
 - [Privacy-Preserving Active Learning for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-wildfire-evacuation-logistics-networks-under-real-time-54je)
 - [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-during-4ihe)
-- [Generative Simulation Benchmarking for precision oncology clinical workflows in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-in-carbon-negative-3ae7)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
