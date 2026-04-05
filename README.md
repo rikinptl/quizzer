@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-14i5)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-in-hybrid-457g)
 - [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance with inverse simulation verification](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-with-inverse-7ib)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-with-zero-trust-24l2)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-during-1081)
-- [Generative Simulation Benchmarking for heritage language revitalization programs in hybrid quantum-classical pipelines](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-in-hybrid-35f0)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
