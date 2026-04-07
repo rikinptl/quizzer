@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-with-zero-trust-566h)
 - [Probabilistic Graph Neural Inference for deep-sea exploration habitat design under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-under-real-time-policy-edo)
 - [Sparse Federated Representation Learning for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-planetary-geology-survey-missions-for-low-power-1f4e)
 - [Human-Aligned Decision Transformers for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-for-extreme-data-5e7c)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-14i5)
-- [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-in-hybrid-457g)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
