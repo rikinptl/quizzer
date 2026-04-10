@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-planetary-geology-survey-missions-with-ethical-auditability-527b)
 - [Meta-Optimized Continual Adaptation for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h4e)
 - [Human-Aligned Decision Transformers for deep-sea exploration habitat design under real-time policy constraints](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-under-real-time-policy-2no2)
 - [Meta-Optimized Continual Adaptation for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-wildfire-evacuation-logistics-networks-during-461m)
 - [Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-autonomous-urban-air-mobility-routing-with-zero-trust-4c5o)
-- [Generative Simulation Benchmarking for wildfire evacuation logistics networks in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-wildfire-evacuation-logistics-networks-in-carbon-negative-510)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
