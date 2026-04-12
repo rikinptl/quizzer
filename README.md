@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-with-embodied-agent-5cp9)
 - [Sparse Federated Representation Learning for deep-sea exploration habitat design for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-deep-sea-exploration-habitat-design-for-low-power-1lg)
 - [Human-Aligned Decision Transformers for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-with-ethical-13n6)
 - [Cross-Modal Knowledge Distillation for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-planetary-geology-survey-missions-with-ethical-auditability-527b)
 - [Meta-Optimized Continual Adaptation for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h4e)
-- [Human-Aligned Decision Transformers for deep-sea exploration habitat design under real-time policy constraints](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-under-real-time-policy-2no2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
