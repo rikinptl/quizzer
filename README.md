@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for sustainable aquaculture monitoring systems under real-time policy constraints](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-sustainable-aquaculture-monitoring-systems-under-3ka3)
 - [Privacy-Preserving Active Learning for satellite anomaly response operations with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-with-inverse-co9)
 - [Explainable Causal Reinforcement Learning for wildfire evacuation logistics networks in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-wildfire-evacuation-logistics-networks-in-3mg)
 - [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-with-embodied-agent-5cp9)
 - [Sparse Federated Representation Learning for deep-sea exploration habitat design for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-deep-sea-exploration-habitat-design-for-low-power-1lg)
-- [Human-Aligned Decision Transformers for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-with-ethical-13n6)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
