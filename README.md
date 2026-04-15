@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks for extreme data sparsity scenarios](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-for-extreme-data-1d9p)
 - [Human-Aligned Decision Transformers for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-for-low-power-autonomous-2e5e)
 - [Adaptive Neuro-Symbolic Planning for deep-sea exploration habitat design in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-deep-sea-exploration-habitat-design-in-hybrid-g16)
 - [Sparse Federated Representation Learning for autonomous urban air mobility routing during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-during-5am0)
 - [Self-Supervised Temporal Pattern Mining for sustainable aquaculture monitoring systems under real-time policy constraints](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-sustainable-aquaculture-monitoring-systems-under-3ka3)
-- [Privacy-Preserving Active Learning for satellite anomaly response operations with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-satellite-anomaly-response-operations-with-inverse-co9)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
