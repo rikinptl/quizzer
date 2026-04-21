@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for satellite anomaly response operations under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-under-1dn9)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-for-low-power-3jog)
 - [Explainable Causal Reinforcement Learning for precision oncology clinical workflows in hybrid quantum-classical pipelines](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-precision-oncology-clinical-workflows-in-hybrid-3fkf)
 - [Cross-Modal Knowledge Distillation for precision oncology clinical workflows in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-precision-oncology-clinical-workflows-in-hybrid-3h5n)
 - [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-1261)
-- [Edge-to-Cloud Swarm Coordination for planetary geology survey missions in hybrid quantum-classical pipelines](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-in-hybrid-quantum-classical-28oh)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
