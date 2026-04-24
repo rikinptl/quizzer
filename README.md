@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for precision oncology clinical workflows for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-for-extreme-data-1jhh)
 - [Adaptive Neuro-Symbolic Planning for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-planetary-geology-survey-missions-for-extreme-data-sparsity-34f0)
 - [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-3llp)
 - [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance during mission-critical recovery windows](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-during-4g2h)
 - [Privacy-Preserving Active Learning for coastal climate resilience planning in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-coastal-climate-resilience-planning-in-hybrid-160k)
-- [Explainable Causal Reinforcement Learning for satellite anomaly response operations under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-under-1dn9)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
