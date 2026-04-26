@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-under-409d)
 - [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-for-low-power-bof)
 - [Sparse Federated Representation Learning for heritage language revitalization programs under real-time policy constraints](https://dev.to/rikinptl/sparse-federated-representation-learning-for-heritage-language-revitalization-programs-under-3lo5)
 - [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-under-4k7m)
 - [Privacy-Preserving Active Learning for precision oncology clinical workflows for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-for-extreme-data-1jhh)
-- [Adaptive Neuro-Symbolic Planning for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-planetary-geology-survey-missions-for-extreme-data-sparsity-34f0)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
