@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-with-inverse-4ef0)
 - [Physics-Augmented Diffusion Modeling for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-autonomous-urban-air-mobility-routing-under-real-time-2ojo)
 - [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-for-extreme-data-3c69)
 - [Human-Aligned Decision Transformers for satellite anomaly response operations in carbon-negative infrastructure](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-in-carbon-negative-4154)
 - [Probabilistic Graph Neural Inference for autonomous urban air mobility routing across multilingual stakeholder groups](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-autonomous-urban-air-mobility-routing-across-multilingual-5hgf)
-- [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-under-409d)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
