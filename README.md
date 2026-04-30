@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-precision-oncology-clinical-workflows-across-multilingual-50gk)
 - [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing during mission-critical recovery windows](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-during-4ja7)
 - [Explainable Causal Reinforcement Learning for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-wildfire-evacuation-logistics-networks-during-4hmc)
 - [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-with-inverse-4ef0)
 - [Physics-Augmented Diffusion Modeling for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-autonomous-urban-air-mobility-routing-under-real-time-2ojo)
-- [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-for-extreme-data-3c69)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
