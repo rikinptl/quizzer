@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for precision oncology clinical workflows in carbon-negative infrastructure](https://dev.to/rikinptl/human-aligned-decision-transformers-for-precision-oncology-clinical-workflows-in-carbon-negative-4efk)
 - [Edge-to-Cloud Swarm Coordination for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-smart-agriculture-microgrid-orchestration-with-embodied-agent-4g3h)
 - [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-inverse-2jil)
 - [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance during mission-critical recovery windows](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-during-3na7)
 - [Cross-Modal Knowledge Distillation for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-precision-oncology-clinical-workflows-across-multilingual-50gk)
-- [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing during mission-critical recovery windows](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-during-4ja7)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
