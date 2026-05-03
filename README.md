@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-in-carbon-negative-52hb)
 - [Sparse Federated Representation Learning for precision oncology clinical workflows with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-with-embodied-3ed5)
 - [Human-Aligned Decision Transformers for precision oncology clinical workflows in carbon-negative infrastructure](https://dev.to/rikinptl/human-aligned-decision-transformers-for-precision-oncology-clinical-workflows-in-carbon-negative-4efk)
 - [Edge-to-Cloud Swarm Coordination for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-smart-agriculture-microgrid-orchestration-with-embodied-agent-4g3h)
 - [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-inverse-2jil)
-- [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance during mission-critical recovery windows](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-during-3na7)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
