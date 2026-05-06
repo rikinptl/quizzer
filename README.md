@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-under-1knl)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-for-extreme-data-c5n)
 - [Edge-to-Cloud Swarm Coordination for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-deep-sea-exploration-habitat-design-under-multi-jurisdictional-4nj7)
 - [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems under real-time policy constraints](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-under-real-time-48lk)
 - [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-with-embodied-agent-jpn)
-- [Sparse Federated Representation Learning for deep-sea exploration habitat design in carbon-negative infrastructure](https://dev.to/rikinptl/sparse-federated-representation-learning-for-deep-sea-exploration-habitat-design-in-carbon-negative-35d)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
