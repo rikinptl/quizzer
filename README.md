@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-under-real-time-c24)
 - [Probabilistic Graph Neural Inference for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-for-low-power-3nma)
 - [Probabilistic Graph Neural Inference for wildfire evacuation logistics networks under multi-jurisdictional compliance](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-wildfire-evacuation-logistics-networks-under-1d3j)
 - [Generative Simulation Benchmarking for autonomous urban air mobility routing with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-with-inverse-24i9)
 - [Human-Aligned Decision Transformers for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/human-aligned-decision-transformers-for-circular-manufacturing-supply-chains-in-hybrid-4app)
-- [Meta-Optimized Continual Adaptation for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-circular-manufacturing-supply-chains-in-carbon-negative-16ab)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
