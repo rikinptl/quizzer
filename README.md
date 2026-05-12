@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-in-520b)
 - [Meta-Optimized Continual Adaptation for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-for-low-power-autonomous-33ap)
 - [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-for-low-power-4ceb)
 - [Explainable Causal Reinforcement Learning for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-for-extreme-583n)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-under-real-time-c24)
-- [Probabilistic Graph Neural Inference for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-for-low-power-3nma)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
