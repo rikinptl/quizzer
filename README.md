@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for precision oncology clinical workflows with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-with-ethical-16d6)
 - [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-during-4h23)
 - [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-under-real-time-360o)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs in carbon-negative infrastructure](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-in-carbon-negative-52ac)
 - [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-in-520b)
-- [Meta-Optimized Continual Adaptation for planetary geology survey missions for low-power autonomous deployments](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-for-low-power-autonomous-33ap)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
