@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/sparse-federated-representation-learning-for-smart-agriculture-microgrid-orchestration-under-ddi)
 - [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-with-ethical-3c0m)
 - [Generative Simulation Benchmarking for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-for-extreme-data-46jk)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-with-ethical-16d6)
 - [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-during-4h23)
-- [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-under-real-time-360o)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
