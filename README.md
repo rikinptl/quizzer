@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for sustainable aquaculture monitoring systems for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-sustainable-aquaculture-monitoring-systems-for-extreme-data-4kfj)
 - [Meta-Optimized Continual Adaptation for heritage language revitalization programs under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-under-540c)
 - [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-with-zero-trust-26e1)
 - [Sparse Federated Representation Learning for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/sparse-federated-representation-learning-for-smart-agriculture-microgrid-orchestration-under-ddi)
 - [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-with-ethical-3c0m)
-- [Generative Simulation Benchmarking for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-for-extreme-data-46jk)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
