@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-during-mj9)
 - [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-zero-trust-448l)
 - [Edge-to-Cloud Swarm Coordination for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-circular-manufacturing-supply-chains-in-carbon-negative-5ap2)
 - [Sparse Federated Representation Learning for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/sparse-federated-representation-learning-for-planetary-geology-survey-missions-with-ethical-315)
 - [Self-Supervised Temporal Pattern Mining for planetary geology survey missions under multi-jurisdictional compliance](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-planetary-geology-survey-missions-under-19ji)
-- [Human-Aligned Decision Transformers for sustainable aquaculture monitoring systems for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-sustainable-aquaculture-monitoring-systems-for-extreme-data-4kfj)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
