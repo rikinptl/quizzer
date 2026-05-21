@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for precision oncology clinical workflows with embodied agent feedback loops](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-precision-oncology-clinical-workflows-with-embodied-558)
 - [Adaptive Neuro-Symbolic Planning for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-deep-sea-exploration-habitat-design-during-mission-critical-4dcc)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-with-zero-trust-3kh1)
 - [Human-Aligned Decision Transformers for coastal climate resilience planning with inverse simulation verification](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-with-inverse-simulation-3b3l)
 - [Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-during-mj9)
-- [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-zero-trust-448l)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
