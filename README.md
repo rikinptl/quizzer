@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-for-extreme-data-27hj)
 - [Human-Aligned Decision Transformers for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-low-power-56k)
 - [Generative Simulation Benchmarking for sustainable aquaculture monitoring systems under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-sustainable-aquaculture-monitoring-systems-under-real-time-30k5)
 - [Self-Supervised Temporal Pattern Mining for precision oncology clinical workflows with embodied agent feedback loops](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-precision-oncology-clinical-workflows-with-embodied-558)
 - [Adaptive Neuro-Symbolic Planning for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-deep-sea-exploration-habitat-design-during-mission-critical-4dcc)
-- [Privacy-Preserving Active Learning for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-with-zero-trust-3kh1)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
