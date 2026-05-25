@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-for-extreme-data-28gk)
 - [Probabilistic Graph Neural Inference for circular manufacturing supply chains for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-circular-manufacturing-supply-chains-for-extreme-data-5c2e)
 - [Privacy-Preserving Active Learning for coastal climate resilience planning with embodied agent feedback loops](https://dev.to/rikinptl/privacy-preserving-active-learning-for-coastal-climate-resilience-planning-with-embodied-agent-2lge)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs in carbon-negative infrastructure](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-in-carbon-negative-5270)
 - [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-for-extreme-data-27hj)
-- [Human-Aligned Decision Transformers for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-low-power-56k)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
