@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-for-extreme-data-4nn3)
 - [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-zero-trust-4n97)
 - [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-embodied-1hfn)
 - [Human-Aligned Decision Transformers for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/human-aligned-decision-transformers-for-bio-inspired-soft-robotics-maintenance-under-real-time-33oe)
 - [Self-Supervised Temporal Pattern Mining for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-precision-oncology-clinical-workflows-across-i7n)
-- [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-for-extreme-data-28gk)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
