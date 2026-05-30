@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-under-bi6)
 - [Explainable Causal Reinforcement Learning for planetary geology survey missions with embodied agent feedback loops](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-planetary-geology-survey-missions-with-embodied-agent-433l)
 - [Privacy-Preserving Active Learning for autonomous urban air mobility routing in carbon-negative infrastructure](https://dev.to/rikinptl/privacy-preserving-active-learning-for-autonomous-urban-air-mobility-routing-in-carbon-negative-4j5m)
 - [Cross-Modal Knowledge Distillation for satellite anomaly response operations across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-satellite-anomaly-response-operations-across-multilingual-1dne)
 - [Probabilistic Graph Neural Inference for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-for-extreme-data-4nn3)
-- [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-zero-trust-4n97)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
