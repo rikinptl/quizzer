@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for bio-inspired soft robotics maintenance in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-bio-inspired-soft-robotics-maintenance-in-carbon-negative-117a)
 - [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-in-hybrid-49d6)
 - [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-embodied-o8d)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-with-embodied-211l)
 - [Meta-Optimized Continual Adaptation for coastal climate resilience planning with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-zero-trust-5a9l)
-- [Cross-Modal Knowledge Distillation for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-coastal-climate-resilience-planning-under-real-time-policy-5hm8)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
