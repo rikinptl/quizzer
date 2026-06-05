@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-in-carbon-negative-3oj)
 - [Human-Aligned Decision Transformers for satellite anomaly response operations with inverse simulation verification](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-with-inverse-bll)
 - [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs during mission-critical recovery windows](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-during-312d)
 - [Cross-Modal Knowledge Distillation for bio-inspired soft robotics maintenance in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-bio-inspired-soft-robotics-maintenance-in-carbon-negative-117a)
 - [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-in-hybrid-49d6)
-- [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with embodied agent feedback loops](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-embodied-o8d)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
