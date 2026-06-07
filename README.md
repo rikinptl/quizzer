@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-sustainable-aquaculture-monitoring-systems-with-1nc2)
 - [Self-Supervised Temporal Pattern Mining for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-3ko3)
 - [Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-autonomous-urban-air-mobility-routing-with-zero-trust-4cc7)
 - [Cross-Modal Knowledge Distillation for smart agriculture microgrid orchestration in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-smart-agriculture-microgrid-orchestration-in-carbon-negative-3oj)
 - [Human-Aligned Decision Transformers for satellite anomaly response operations with inverse simulation verification](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-with-inverse-bll)
-- [Edge-to-Cloud Swarm Coordination for heritage language revitalization programs during mission-critical recovery windows](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-heritage-language-revitalization-programs-during-312d)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
