@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for wildfire evacuation logistics networks in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-wildfire-evacuation-logistics-networks-in-carbon-negative-514d)
 - [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-under-3c1b)
 - [Cross-Modal Knowledge Distillation for satellite anomaly response operations across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-satellite-anomaly-response-operations-across-multilingual-4hni)
 - [Explainable Causal Reinforcement Learning for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-sustainable-aquaculture-monitoring-systems-with-1nc2)
 - [Self-Supervised Temporal Pattern Mining for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-3ko3)
-- [Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-autonomous-urban-air-mobility-routing-with-zero-trust-4cc7)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
