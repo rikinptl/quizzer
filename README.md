@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for heritage language revitalization programs for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-for-low-power-49e6)
 - [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-under-3608)
 - [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-with-inverse-21b2)
 - [Explainable Causal Reinforcement Learning for deep-sea exploration habitat design with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-deep-sea-exploration-habitat-design-with-ethical-1500)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-extreme-data-sparsity-1a69)
-- [Meta-Optimized Continual Adaptation for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-with-inverse-2el8)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
