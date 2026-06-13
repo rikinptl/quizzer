@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-during-1phc)
 - [Physics-Augmented Diffusion Modeling for wildfire evacuation logistics networks in carbon-negative infrastructure](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-wildfire-evacuation-logistics-networks-in-carbon-negative-1lb2)
 - [Sparse Federated Representation Learning for smart agriculture microgrid orchestration for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-smart-agriculture-microgrid-orchestration-for-ldp)
 - [Human-Aligned Decision Transformers for heritage language revitalization programs for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-for-low-power-49e6)
 - [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration under multi-jurisdictional compliance](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-under-3608)
-- [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-with-inverse-21b2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
