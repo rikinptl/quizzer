@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-j7c)
 - [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-in-hybrid-2dce)
 - [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-during-1phc)
 - [Physics-Augmented Diffusion Modeling for wildfire evacuation logistics networks in carbon-negative infrastructure](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-wildfire-evacuation-logistics-networks-in-carbon-negative-1lb2)
 - [Sparse Federated Representation Learning for smart agriculture microgrid orchestration for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-smart-agriculture-microgrid-orchestration-for-ldp)
-- [Human-Aligned Decision Transformers for heritage language revitalization programs for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-for-low-power-49e6)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
