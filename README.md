@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-inverse-4mol)
 - [Physics-Augmented Diffusion Modeling for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-wildfire-evacuation-logistics-networks-for-low-power-442f)
 - [Meta-Optimized Continual Adaptation for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-circular-manufacturing-supply-chains-under-real-time-policy-4fhf)
 - [Meta-Optimized Continual Adaptation for heritage language revitalization programs in carbon-negative infrastructure](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-heritage-language-revitalization-programs-in-1b57)
 - [Human-Aligned Decision Transformers for heritage language revitalization programs under real-time policy constraints](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-under-real-time-5cba)
-- [Human-Aligned Decision Transformers for coastal climate resilience planning across multilingual stakeholder groups](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-across-multilingual-23l1)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
