@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-with-ethical-50jo)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-with-zero-trust-19d3)
 - [Edge-to-Cloud Swarm Coordination for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-deep-sea-exploration-habitat-design-for-extreme-data-sparsity-2kc)
 - [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-inverse-4mol)
 - [Physics-Augmented Diffusion Modeling for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-wildfire-evacuation-logistics-networks-for-low-power-442f)
-- [Meta-Optimized Continual Adaptation for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-circular-manufacturing-supply-chains-under-real-time-policy-4fhf)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
