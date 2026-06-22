@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration for low-power autonomous deployments](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-for-low-power-23pc)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-across-4p0p)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-with-zero-trust-jll)
 - [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-under-57d8)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-with-inverse-2e29)
-- [Physics-Augmented Diffusion Modeling for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-with-ethical-50jo)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
