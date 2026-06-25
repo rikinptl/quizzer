@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-ethical-2co7)
 - [Human-Aligned Decision Transformers for heritage language revitalization programs with ethical auditability baked in](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-with-ethical-1ph9)
 - [Meta-Optimized Continual Adaptation for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-circular-manufacturing-supply-chains-during-1kg1)
 - [Privacy-Preserving Active Learning for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/privacy-preserving-active-learning-for-planetary-geology-survey-missions-with-ethical-auditability-53f1)
 - [Probabilistic Graph Neural Inference for autonomous urban air mobility routing during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-autonomous-urban-air-mobility-routing-during-3f84)
-- [Privacy-Preserving Active Learning for smart agriculture microgrid orchestration for low-power autonomous deployments](https://dev.to/rikinptl/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-for-low-power-23pc)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
