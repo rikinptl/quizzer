@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-under-real-time-policy-282f)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-under-real-time-policy-50ah)
 - [Meta-Optimized Continual Adaptation for autonomous urban air mobility routing with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-autonomous-urban-air-mobility-routing-with-ethical-l9d)
 - [Self-Supervised Temporal Pattern Mining for planetary geology survey missions in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-planetary-geology-survey-missions-in-hybrid-2351)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs during mission-critical recovery windows](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-during-36l3)
-- [Physics-Augmented Diffusion Modeling for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-autonomous-urban-air-mobility-routing-for-low-power-3m59)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
