@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-for-low-power-181f)
 - [Generative Simulation Benchmarking for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-with-embodied-2p1l)
 - [Self-Supervised Temporal Pattern Mining for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-sustainable-aquaculture-monitoring-systems-with-ethical-104k)
 - [Adaptive Neuro-Symbolic Planning for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-wildfire-evacuation-logistics-networks-with-zero-trust-4ag3)
 - [Human-Aligned Decision Transformers for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-under-real-time-policy-282f)
-- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-under-real-time-policy-50ah)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
