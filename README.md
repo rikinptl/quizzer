@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-coastal-climate-resilience-planning-for-extreme-data-29j8)
 - [Sparse Federated Representation Learning for deep-sea exploration habitat design with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-deep-sea-exploration-habitat-design-with-inverse-1goh)
 - [Sparse Federated Representation Learning for smart agriculture microgrid orchestration for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-smart-agriculture-microgrid-orchestration-for-6db)
 - [Human-Aligned Decision Transformers for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-for-low-power-181f)
 - [Generative Simulation Benchmarking for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-with-embodied-2p1l)
-- [Self-Supervised Temporal Pattern Mining for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-sustainable-aquaculture-monitoring-systems-with-ethical-104k)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
