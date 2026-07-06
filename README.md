@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-satellite-anomaly-response-operations-with-ethical-4a28)
 - [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-in-hybrid-46dh)
 - [Physics-Augmented Diffusion Modeling for coastal climate resilience planning during mission-critical recovery windows](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-coastal-climate-resilience-planning-during-2i1k)
 - [Generative Simulation Benchmarking for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-for-low-power-22c2)
 - [Cross-Modal Knowledge Distillation for precision oncology clinical workflows in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-precision-oncology-clinical-workflows-in-carbon-negative-49ob)
-- [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-under-real-time-36ld)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
