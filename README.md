@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-in-hybrid-5309)
 - [Human-Aligned Decision Transformers for deep-sea exploration habitat design in hybrid quantum-classical pipelines](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-in-hybrid-4il7)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-with-embodied-agent-24ki)
 - [Meta-Optimized Continual Adaptation for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-under-real-time-policy-1ie1)
 - [Physics-Augmented Diffusion Modeling for smart agriculture microgrid orchestration in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-smart-agriculture-microgrid-orchestration-in-hybrid-4gai)
-- [Cross-Modal Knowledge Distillation for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-satellite-anomaly-response-operations-for-extreme-data-4f2m)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
