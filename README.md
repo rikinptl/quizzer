@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-satellite-anomaly-response-operations-with-ethical-ebl)
 - [Adaptive Neuro-Symbolic Planning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-heritage-language-revitalization-programs-with-inverse-41ga)
 - [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-under-348h)
 - [Generative Simulation Benchmarking for wildfire evacuation logistics networks across multilingual stakeholder groups](https://dev.to/rikinptl/generative-simulation-benchmarking-for-wildfire-evacuation-logistics-networks-across-multilingual-1c80)
 - [Human-Aligned Decision Transformers for wildfire evacuation logistics networks with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-with-zero-trust-563h)
-- [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-under-43mf)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
