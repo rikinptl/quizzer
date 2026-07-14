@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for smart agriculture microgrid orchestration in carbon-negative infrastructure](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-smart-agriculture-microgrid-orchestration-in-2ack)
 - [Cross-Modal Knowledge Distillation for precision oncology clinical workflows under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-precision-oncology-clinical-workflows-under-7m3)
 - [Cross-Modal Knowledge Distillation for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-heritage-language-revitalization-programs-with-inverse-2eg9)
 - [Cross-Modal Knowledge Distillation for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-satellite-anomaly-response-operations-with-ethical-ebl)
 - [Adaptive Neuro-Symbolic Planning for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-heritage-language-revitalization-programs-with-inverse-41ga)
-- [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-under-348h)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
