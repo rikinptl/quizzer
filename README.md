@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for deep-sea exploration habitat design in hybrid quantum-classical pipelines](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-in-hybrid-19m0)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-during-2i6i)
 - [Physics-Augmented Diffusion Modeling for smart agriculture microgrid orchestration in carbon-negative infrastructure](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-smart-agriculture-microgrid-orchestration-in-2ack)
 - [Cross-Modal Knowledge Distillation for precision oncology clinical workflows under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-precision-oncology-clinical-workflows-under-7m3)
 - [Cross-Modal Knowledge Distillation for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-heritage-language-revitalization-programs-with-inverse-2eg9)
-- [Cross-Modal Knowledge Distillation for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-satellite-anomaly-response-operations-with-ethical-ebl)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
