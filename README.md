@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for planetary geology survey missions in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-planetary-geology-survey-missions-in-hybrid-471j)
 - [Generative Simulation Benchmarking for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-satellite-anomaly-response-operations-for-low-power-3734)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-hbo)
 - [Physics-Augmented Diffusion Modeling for planetary geology survey missions across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-across-multilingual-1mn3)
 - [Self-Supervised Temporal Pattern Mining for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-sustainable-aquaculture-monitoring-systems-with-1mjf)
-- [Generative Simulation Benchmarking for deep-sea exploration habitat design in hybrid quantum-classical pipelines](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-in-hybrid-19m0)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
