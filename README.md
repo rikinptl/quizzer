@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-with-ethical-406l)
 - [Explainable Causal Reinforcement Learning for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-for-extreme-2l9g)
 - [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-with-inverse-20kh)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-during-50fh)
 - [Privacy-Preserving Active Learning for planetary geology survey missions in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-planetary-geology-survey-missions-in-hybrid-471j)
-- [Generative Simulation Benchmarking for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-satellite-anomaly-response-operations-for-low-power-3734)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
