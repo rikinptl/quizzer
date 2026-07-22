@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-circular-manufacturing-supply-chains-with-ethical-auditability-21c9)
 - [Generative Simulation Benchmarking for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-satellite-anomaly-response-operations-with-ethical-27m)
 - [Probabilistic Graph Neural Inference for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-circular-manufacturing-supply-chains-during-229l)
 - [Privacy-Preserving Active Learning for autonomous urban air mobility routing with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-autonomous-urban-air-mobility-routing-with-inverse-2d1j)
 - [Explainable Causal Reinforcement Learning for heritage language revitalization programs under real-time policy constraints](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-heritage-language-revitalization-programs-under-1b63)
-- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-with-ethical-406l)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
