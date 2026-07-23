@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-under-real-time-4a8i)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-for-low-power-4i7a)
 - [Adaptive Neuro-Symbolic Planning for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-circular-manufacturing-supply-chains-with-ethical-auditability-21c9)
 - [Generative Simulation Benchmarking for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-satellite-anomaly-response-operations-with-ethical-27m)
 - [Probabilistic Graph Neural Inference for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-circular-manufacturing-supply-chains-during-229l)
-- [Privacy-Preserving Active Learning for autonomous urban air mobility routing with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-autonomous-urban-air-mobility-routing-with-inverse-2d1j)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
