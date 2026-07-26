@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-under-2mln)
 - [Human-Aligned Decision Transformers for planetary geology survey missions with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-with-zero-trust-2bh9)
 - [Probabilistic Graph Neural Inference for circular manufacturing supply chains for extreme data sparsity scenarios](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-circular-manufacturing-supply-chains-for-extreme-data-5c2i)
 - [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-under-real-time-4a8i)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations for low-power autonomous deployments](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-for-low-power-4i7a)
-- [Adaptive Neuro-Symbolic Planning for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-circular-manufacturing-supply-chains-with-ethical-auditability-21c9)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
