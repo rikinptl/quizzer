@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-bio-inspired-soft-robotics-maintenance-across-multilingual-4613)
 - [Meta-Optimized Continual Adaptation for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-circular-manufacturing-supply-chains-in-hybrid-3pi7)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design with inverse simulation verification](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-with-inverse-2j68)
 - [Physics-Augmented Diffusion Modeling for satellite anomaly response operations with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-satellite-anomaly-response-operations-with-embodied-agent-2e1e)
 - [Human-Aligned Decision Transformers for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-with-zero-trust-1i90)
-- [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design with inverse simulation verification](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-with-inverse-fdk)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
