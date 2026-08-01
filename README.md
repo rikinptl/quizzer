@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for coastal climate resilience planning with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-with-inverse-simulation-5278)
 - [Privacy-Preserving Active Learning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-across-multilingual-5ejg)
 - [Adaptive Neuro-Symbolic Planning for sustainable aquaculture monitoring systems in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-sustainable-aquaculture-monitoring-systems-in-hybrid-i2j)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-in-4gea)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-under-1pkc)
-- [Cross-Modal Knowledge Distillation for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-bio-inspired-soft-robotics-maintenance-across-multilingual-4613)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
