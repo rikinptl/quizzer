@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-in-hybrid-lhp)
 - [Human-Aligned Decision Transformers for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-with-zero-trust-28n0)
 - [Generative Simulation Benchmarking for coastal climate resilience planning with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-with-inverse-simulation-5278)
 - [Privacy-Preserving Active Learning for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-across-multilingual-5ejg)
 - [Adaptive Neuro-Symbolic Planning for sustainable aquaculture monitoring systems in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-sustainable-aquaculture-monitoring-systems-in-hybrid-i2j)
-- [Explainable Causal Reinforcement Learning for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-in-4gea)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
