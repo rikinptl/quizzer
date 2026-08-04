@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-sustainable-aquaculture-monitoring-systems-for-p94)
 - [Sparse Federated Representation Learning for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/sparse-federated-representation-learning-for-circular-manufacturing-supply-chains-with-embodied-1p72)
 - [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems under multi-jurisdictional compliance](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-under-1f3i)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-in-hybrid-lhp)
 - [Human-Aligned Decision Transformers for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-deep-sea-exploration-habitat-design-with-zero-trust-28n0)
-- [Generative Simulation Benchmarking for coastal climate resilience planning with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-with-inverse-simulation-5278)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
