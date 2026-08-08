@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-precision-oncology-clinical-workflows-across-1dmp)
 - [Physics-Augmented Diffusion Modeling for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-with-zero-trust-o32)
 - [Human-Aligned Decision Transformers for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-in-carbon-negative-2kj2)
 - [Meta-Optimized Continual Adaptation for circular manufacturing supply chains in carbon-negative infrastructure](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-circular-manufacturing-supply-chains-in-carbon-negative-5b69)
 - [Generative Simulation Benchmarking for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-under-real-time-policy-317d)
-- [Human-Aligned Decision Transformers for sustainable aquaculture monitoring systems in carbon-negative infrastructure](https://dev.to/rikinptl/human-aligned-decision-transformers-for-sustainable-aquaculture-monitoring-systems-in-3ekp)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
