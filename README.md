@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-across-multilingual-5fn5)
 - [Explainable Causal Reinforcement Learning for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-wildfire-evacuation-logistics-networks-during-480)
 - [Sparse Federated Representation Learning for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-smart-agriculture-microgrid-orchestration-with-inverse-4kp6)
 - [Explainable Causal Reinforcement Learning for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-precision-oncology-clinical-workflows-across-1dmp)
 - [Physics-Augmented Diffusion Modeling for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-with-zero-trust-o32)
-- [Human-Aligned Decision Transformers for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/human-aligned-decision-transformers-for-planetary-geology-survey-missions-in-carbon-negative-2kj2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
