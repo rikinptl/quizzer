@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for sustainable aquaculture monitoring systems during mission-critical recovery win...](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-sustainable-aquaculture-monitoring-systems-during-224c)
 - [Sparse Federated Representation Learning for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-wildfire-evacuation-logistics-networks-during-274n)
 - [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-with-inverse-51ph)
 - [Explainable Causal Reinforcement Learning for wildfire evacuation logistics networks with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-wildfire-evacuation-logistics-networks-with-inverse-5c2g)
 - [Privacy-Preserving Active Learning for precision oncology clinical workflows in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-in-hybrid-46c7)
-- [Physics-Augmented Diffusion Modeling for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-bio-inspired-soft-robotics-maintenance-across-multilingual-5fn5)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
