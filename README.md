@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-under-36l)
 - [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-across-multilingual-3ag0)
 - [Probabilistic Graph Neural Inference for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-circular-manufacturing-supply-chains-in-hybrid-2lik)
 - [Meta-Optimized Continual Adaptation for precision oncology clinical workflows with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-with-ethical-2jbi)
 - [Explainable Causal Reinforcement Learning for sustainable aquaculture monitoring systems during mission-critical recovery win...](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-sustainable-aquaculture-monitoring-systems-during-224c)
-- [Sparse Federated Representation Learning for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-wildfire-evacuation-logistics-networks-during-274n)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
