@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-under-real-time-policy-3iff)
 - [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks in hybrid quantum-classical pipelines](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-in-hybrid-38a6)
 - [Probabilistic Graph Neural Inference for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-precision-oncology-clinical-workflows-with-inverse-bf)
 - [Meta-Optimized Continual Adaptation for precision oncology clinical workflows under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-under-d99)
 - [Generative Simulation Benchmarking for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/generative-simulation-benchmarking-for-deep-sea-exploration-habitat-design-under-36l)
-- [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-across-multilingual-3ag0)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
