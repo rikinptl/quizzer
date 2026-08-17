@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-with-zero-trust-160j)
 - [Human-Aligned Decision Transformers for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-during-3hii)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-under-real-time-policy-3iff)
 - [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks in hybrid quantum-classical pipelines](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-in-hybrid-38a6)
 - [Probabilistic Graph Neural Inference for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-precision-oncology-clinical-workflows-with-inverse-bf)
-- [Meta-Optimized Continual Adaptation for precision oncology clinical workflows under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-under-d99)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
