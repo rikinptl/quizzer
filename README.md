@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-in-hybrid-1ahc)
 - [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-ethical-6go)
 - [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-with-zero-trust-160j)
 - [Human-Aligned Decision Transformers for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-during-3hii)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-under-real-time-policy-3iff)
-- [Edge-to-Cloud Swarm Coordination for wildfire evacuation logistics networks in hybrid quantum-classical pipelines](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-wildfire-evacuation-logistics-networks-in-hybrid-38a6)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
