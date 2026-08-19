@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-coastal-climate-resilience-planning-for-low-power-28lk)
 - [Probabilistic Graph Neural Inference for heritage language revitalization programs with inverse simulation verification](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-heritage-language-revitalization-programs-with-inverse-1gd0)
 - [Cross-Modal Knowledge Distillation for sustainable aquaculture monitoring systems in hybrid quantum-classical pipelines](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-sustainable-aquaculture-monitoring-systems-in-hybrid-1ahc)
 - [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-ethical-6go)
 - [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-with-zero-trust-160j)
-- [Human-Aligned Decision Transformers for wildfire evacuation logistics networks during mission-critical recovery windows](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-during-3hii)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
