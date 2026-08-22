@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-under-real-time-2edg)
 - [Sparse Federated Representation Learning for precision oncology clinical workflows for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-for-low-power-5hid)
 - [Sparse Federated Representation Learning for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/sparse-federated-representation-learning-for-coastal-climate-resilience-planning-for-low-power-4331)
 - [Privacy-Preserving Active Learning for precision oncology clinical workflows with zero-trust governance guarantees](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-with-zero-trust-38ak)
 - [Self-Supervised Temporal Pattern Mining for precision oncology clinical workflows across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-precision-oncology-clinical-workflows-across-43p8)
-- [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-with-embodied-agent-2co1)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
