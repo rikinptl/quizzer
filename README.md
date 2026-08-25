@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-for-low-power-3on)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks with inverse simulation verification](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-with-inverse-546m)
 - [Physics-Augmented Diffusion Modeling for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-smart-agriculture-microgrid-orchestration-with-ethical-1h0k)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-in-carbon-negative-4e3a)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-with-ethical-3i8g)
-- [Sparse Federated Representation Learning for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/sparse-federated-representation-learning-for-autonomous-urban-air-mobility-routing-under-real-time-2edg)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
