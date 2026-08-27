@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for precision oncology clinical workflows under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-precision-oncology-clinical-workflows-under-54in)
 - [Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-autonomous-urban-air-mobility-routing-with-zero-trust-15n2)
 - [Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing in carbon-negative infrastructure](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-autonomous-urban-air-mobility-routing-in-carbon-negative-4a5o)
 - [Edge-to-Cloud Swarm Coordination for precision oncology clinical workflows in hybrid quantum-classical pipelines](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-precision-oncology-clinical-workflows-in-hybrid-3kbl)
 - [Human-Aligned Decision Transformers for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-coastal-climate-resilience-planning-for-low-power-3on)
-- [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks with inverse simulation verification](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-with-inverse-546m)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
