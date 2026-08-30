@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for satellite anomaly response operations for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-satellite-anomaly-response-operations-for-extreme-data-40o6)
 - [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-with-4395)
 - [Generative Simulation Benchmarking for wildfire evacuation logistics networks in carbon-negative infrastructure](https://dev.to/rikinptl/generative-simulation-benchmarking-for-wildfire-evacuation-logistics-networks-in-carbon-negative-4idk)
 - [Generative Simulation Benchmarking for autonomous urban air mobility routing with inverse simulation verification](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-with-inverse-3n8g)
 - [Cross-Modal Knowledge Distillation for heritage language revitalization programs during mission-critical recovery windows](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-heritage-language-revitalization-programs-during-3l3m)
-- [Physics-Augmented Diffusion Modeling for precision oncology clinical workflows under multi-jurisdictional compliance](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-precision-oncology-clinical-workflows-under-54in)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
