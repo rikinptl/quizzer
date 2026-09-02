@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-planetary-geology-survey-missions-under-real-time-50e6)
 - [Physics-Augmented Diffusion Modeling for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-heritage-language-revitalization-programs-across-566a)
 - [Self-Supervised Temporal Pattern Mining for satellite anomaly response operations in carbon-negative infrastructure](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-satellite-anomaly-response-operations-in-3j37)
 - [Edge-to-Cloud Swarm Coordination for bio-inspired soft robotics maintenance for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-bio-inspired-soft-robotics-maintenance-for-low-power-362o)
 - [Self-Supervised Temporal Pattern Mining for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-planetary-geology-survey-missions-with-ethical-ep5)
-- [Cross-Modal Knowledge Distillation for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-circular-manufacturing-supply-chains-under-real-time-policy-30hc)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
