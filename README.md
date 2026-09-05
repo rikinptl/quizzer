@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for circular manufacturing supply chains with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-circular-manufacturing-supply-chains-with-zero-trust-4cg5)
 - [Physics-Augmented Diffusion Modeling for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-circular-manufacturing-supply-chains-with-embodied-agent-53p)
 - [Meta-Optimized Continual Adaptation for planetary geology survey missions under multi-jurisdictional compliance](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-under-103b)
 - [Adaptive Neuro-Symbolic Planning for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-planetary-geology-survey-missions-under-real-time-policy-4040)
 - [Meta-Optimized Continual Adaptation for coastal climate resilience planning with embodied agent feedback loops](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-embodied-agent-15ij)
-- [Explainable Causal Reinforcement Learning for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-planetary-geology-survey-missions-under-real-time-50e6)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
