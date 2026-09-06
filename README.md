@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for planetary geology survey missions with ethical auditability baked in](https://dev.to/rikinptl/sparse-federated-representation-learning-for-planetary-geology-survey-missions-with-ethical-g5d)
 - [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance with ethical auditability baked in](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-with-ethical-2n35)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains for low-power autonomous deployments](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-for-low-power-4nj2)
 - [Physics-Augmented Diffusion Modeling for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-coastal-climate-resilience-planning-for-extreme-data-52ph)
 - [Adaptive Neuro-Symbolic Planning for circular manufacturing supply chains with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-circular-manufacturing-supply-chains-with-zero-trust-4cg5)
-- [Physics-Augmented Diffusion Modeling for circular manufacturing supply chains with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-circular-manufacturing-supply-chains-with-embodied-agent-53p)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
