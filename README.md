@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for satellite anomaly response operations in carbon-negative infrastructure](https://dev.to/rikinptl/sparse-federated-representation-learning-for-satellite-anomaly-response-operations-in-4j4i)
 - [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-across-29j2)
 - [Edge-to-Cloud Swarm Coordination for autonomous urban air mobility routing under real-time policy constraints](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-autonomous-urban-air-mobility-routing-under-real-time-policy-mc7)
 - [Generative Simulation Benchmarking for sustainable aquaculture monitoring systems with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-sustainable-aquaculture-monitoring-systems-with-ethical-noa)
 - [Meta-Optimized Continual Adaptation for precision oncology clinical workflows with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-precision-oncology-clinical-workflows-with-ethical-1n4e)
-- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-with-ethical-auditability-l42)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
