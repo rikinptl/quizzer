@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for precision oncology clinical workflows with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-precision-oncology-clinical-workflows-with-ethical-h1i)
 - [Generative Simulation Benchmarking for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/generative-simulation-benchmarking-for-autonomous-urban-air-mobility-routing-for-low-power-gf0)
 - [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance with zero-trust governance guarantees](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-with-zero-trust-gf9)
 - [Privacy-Preserving Active Learning for deep-sea exploration habitat design for low-power autonomous deployments](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-for-low-power-autonomous-178j)
 - [Sparse Federated Representation Learning for satellite anomaly response operations in carbon-negative infrastructure](https://dev.to/rikinptl/sparse-federated-representation-learning-for-satellite-anomaly-response-operations-in-4j4i)
-- [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-across-29j2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
