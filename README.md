@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Physics-Augmented Diffusion Modeling for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-sustainable-aquaculture-monitoring-systems-with-embodied-1po6)
 - [Generative Simulation Benchmarking for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-during-mission-critical-1l22)
 - [Meta-Optimized Continual Adaptation for coastal climate resilience planning in carbon-negative infrastructure](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-in-carbon-negative-3kdb)
 - [Cross-Modal Knowledge Distillation for heritage language revitalization programs in carbon-negative infrastructure](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-heritage-language-revitalization-programs-in-carbon-negative-4m46)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design under real-time policy constraints](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-under-real-time-policy-5c73)
-- [Sparse Federated Representation Learning for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-deep-sea-exploration-habitat-design-during-44cj)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
