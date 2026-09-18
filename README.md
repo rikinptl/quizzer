@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-during-45i8)
 - [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-for-low-power-aje)
 - [Generative Simulation Benchmarking for heritage language revitalization programs under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-under-real-time-2h43)
 - [Physics-Augmented Diffusion Modeling for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-sustainable-aquaculture-monitoring-systems-with-embodied-1po6)
 - [Generative Simulation Benchmarking for circular manufacturing supply chains during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-during-mission-critical-1l22)
-- [Meta-Optimized Continual Adaptation for coastal climate resilience planning in carbon-negative infrastructure](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-in-carbon-negative-3kdb)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
