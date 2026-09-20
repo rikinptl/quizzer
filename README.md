@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-with-zero-trust-3079)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-for-extreme-data-59cg)
 - [Meta-Optimized Continual Adaptation for satellite anomaly response operations in carbon-negative infrastructure](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-satellite-anomaly-response-operations-in-carbon-negative-3hke)
 - [Probabilistic Graph Neural Inference for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-during-45i8)
 - [Self-Supervised Temporal Pattern Mining for autonomous urban air mobility routing for low-power autonomous deployments](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-autonomous-urban-air-mobility-routing-for-low-power-aje)
-- [Generative Simulation Benchmarking for heritage language revitalization programs under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-heritage-language-revitalization-programs-under-real-time-2h43)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
