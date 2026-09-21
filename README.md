@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for planetary geology survey missions across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-planetary-geology-survey-missions-across-multilingual-3m9j)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-under-real-time-policy-51c5)
 - [Self-Supervised Temporal Pattern Mining for deep-sea exploration habitat design with zero-trust governance guarantees](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-deep-sea-exploration-habitat-design-with-zero-trust-3079)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-for-extreme-data-59cg)
 - [Meta-Optimized Continual Adaptation for satellite anomaly response operations in carbon-negative infrastructure](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-satellite-anomaly-response-operations-in-carbon-negative-3hke)
-- [Probabilistic Graph Neural Inference for deep-sea exploration habitat design during mission-critical recovery windows](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-during-45i8)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
