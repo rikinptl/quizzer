@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-under-real-time-59n)
 - [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning in hybrid quantum-classical pipelines](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-in-hybrid-4i5n)
 - [Cross-Modal Knowledge Distillation for wildfire evacuation logistics networks under real-time policy constraints](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-wildfire-evacuation-logistics-networks-under-real-time-4183)
 - [Meta-Optimized Continual Adaptation for autonomous urban air mobility routing in hybrid quantum-classical pipelines](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-autonomous-urban-air-mobility-routing-in-hybrid-5ei7)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations under multi-jurisdictional compliance](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-under-43c4)
-- [Privacy-Preserving Active Learning for deep-sea exploration habitat design under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-under-1g)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
