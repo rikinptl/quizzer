@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Sparse Federated Representation Learning for coastal climate resilience planning under multi-jurisdictional compliance](https://dev.to/rikinptl/sparse-federated-representation-learning-for-coastal-climate-resilience-planning-under-3np7)
 - [Meta-Optimized Continual Adaptation for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-planetary-geology-survey-missions-under-real-time-policy-3b5d)
 - [Human-Aligned Decision Transformers for smart agriculture microgrid orchestration across multilingual stakeholder groups](https://dev.to/rikinptl/human-aligned-decision-transformers-for-smart-agriculture-microgrid-orchestration-across-11de)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows with zero-trust governance guarantees](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-with-zero-trust-9ca)
 - [Sparse Federated Representation Learning for heritage language revitalization programs with zero-trust governance guarantees](https://dev.to/rikinptl/sparse-federated-representation-learning-for-heritage-language-revitalization-programs-with-3aa8)
-- [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-under-real-time-59n)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
