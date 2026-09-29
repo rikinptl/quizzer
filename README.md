@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-1n1j)
 - [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-across-multilingual-1dgm)
 - [Probabilistic Graph Neural Inference for deep-sea exploration habitat design with embodied agent feedback loops](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-deep-sea-exploration-habitat-design-with-embodied-agent-3lmb)
 - [Self-Supervised Temporal Pattern Mining for sustainable aquaculture monitoring systems during mission-critical recovery windows](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-sustainable-aquaculture-monitoring-systems-during-2a5a)
 - [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning under real-time policy constraints](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-under-real-time-4g73)
-- [Cross-Modal Knowledge Distillation for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-planetary-geology-survey-missions-for-extreme-data-sparsity-2ppg)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
