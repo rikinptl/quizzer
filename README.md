@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-across-multilingual-2a27)
 - [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-ethical-2io2)
 - [Privacy-Preserving Active Learning for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-across-1of1)
 - [Human-Aligned Decision Transformers for heritage language revitalization programs for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-heritage-language-revitalization-programs-for-extreme-data-e88)
 - [Probabilistic Graph Neural Inference for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-bio-inspired-soft-robotics-maintenance-in-hybrid-1n1j)
-- [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-across-multilingual-1dgm)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
