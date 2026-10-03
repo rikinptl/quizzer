@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for planetary geology survey missions with embodied agent feedback loops](https://dev.to/rikinptl/privacy-preserving-active-learning-for-planetary-geology-survey-missions-with-embodied-agent-ijj)
 - [Generative Simulation Benchmarking for circular manufacturing supply chains with zero-trust governance guarantees](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-with-zero-trust-1lfh)
 - [Generative Simulation Benchmarking for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-with-ethical-4pl1)
 - [Meta-Optimized Continual Adaptation for bio-inspired soft robotics maintenance across multilingual stakeholder groups](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-bio-inspired-soft-robotics-maintenance-across-multilingual-2a27)
 - [Meta-Optimized Continual Adaptation for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-smart-agriculture-microgrid-orchestration-with-ethical-2io2)
-- [Privacy-Preserving Active Learning for heritage language revitalization programs across multilingual stakeholder groups](https://dev.to/rikinptl/privacy-preserving-active-learning-for-heritage-language-revitalization-programs-across-1of1)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
