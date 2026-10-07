@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-satellite-anomaly-response-operations-with-zero-trust-4peg)
 - [Generative Simulation Benchmarking for coastal climate resilience planning during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-during-mission-critical-3g37)
 - [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-zero-trust-3gkg)
 - [Meta-Optimized Continual Adaptation for wildfire evacuation logistics networks with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-wildfire-evacuation-logistics-networks-with-ethical-3747)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-with-zero-trust-1g24)
-- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-in-hybrid-44fp)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
