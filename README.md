@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Generative Simulation Benchmarking for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-during-3jld)
 - [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-under-17ff)
 - [Adaptive Neuro-Symbolic Planning for circular manufacturing supply chains under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-circular-manufacturing-supply-chains-under-real-time-policy-e53)
 - [Meta-Optimized Continual Adaptation for satellite anomaly response operations with zero-trust governance guarantees](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-satellite-anomaly-response-operations-with-zero-trust-4peg)
 - [Generative Simulation Benchmarking for coastal climate resilience planning during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-coastal-climate-resilience-planning-during-mission-critical-3g37)
-- [Generative Simulation Benchmarking for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-zero-trust-3gkg)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
