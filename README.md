@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for bio-inspired soft robotics maintenance in hybrid quantum-classical pipelines](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-bio-inspired-soft-robotics-maintenance-in-hybrid-fed)
 - [Explainable Causal Reinforcement Learning for circular manufacturing supply chains with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-circular-manufacturing-supply-chains-with-inverse-4fh9)
 - [Privacy-Preserving Active Learning for precision oncology clinical workflows in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-in-hybrid-5g2e)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-for-extreme-data-5bkh)
 - [Generative Simulation Benchmarking for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/generative-simulation-benchmarking-for-precision-oncology-clinical-workflows-during-3jld)
-- [Cross-Modal Knowledge Distillation for autonomous urban air mobility routing under multi-jurisdictional compliance](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-autonomous-urban-air-mobility-routing-under-17ff)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
