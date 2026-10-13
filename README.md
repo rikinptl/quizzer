@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Privacy-Preserving Active Learning for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-with-inverse-j27)
 - [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-2gdb)
 - [Probabilistic Graph Neural Inference for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-under-real-time-policy-58oi)
 - [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-for-extreme-data-1fpa)
 - [Sparse Federated Representation Learning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/sparse-federated-representation-learning-for-precision-oncology-clinical-workflows-during-h2n)
-- [Privacy-Preserving Active Learning for precision oncology clinical workflows under multi-jurisdictional compliance](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-under-3ob2)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
