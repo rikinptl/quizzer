@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-with-embodied-3h26)
 - [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs for low-power autonomous deployments](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-for-low-power-3k73)
 - [Edge-to-Cloud Swarm Coordination for precision oncology clinical workflows with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-precision-oncology-clinical-workflows-with-embodied-agent-4nog)
 - [Privacy-Preserving Active Learning for precision oncology clinical workflows with inverse simulation verification](https://dev.to/rikinptl/privacy-preserving-active-learning-for-precision-oncology-clinical-workflows-with-inverse-j27)
 - [Explainable Causal Reinforcement Learning for smart agriculture microgrid orchestration with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-smart-agriculture-microgrid-orchestration-with-2gdb)
-- [Probabilistic Graph Neural Inference for planetary geology survey missions under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-planetary-geology-survey-missions-under-real-time-policy-58oi)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
