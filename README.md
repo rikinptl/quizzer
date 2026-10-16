@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-ethical-30fi)
 - [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning in carbon-negative infrastructure](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-in-carbon-negative-5e9i)
 - [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-with-inverse-3fmc)
 - [Explainable Causal Reinforcement Learning for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-bio-inspired-soft-robotics-maintenance-with-embodied-3h26)
 - [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs for low-power autonomous deployments](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-for-low-power-3k73)
-- [Edge-to-Cloud Swarm Coordination for precision oncology clinical workflows with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-precision-oncology-clinical-workflows-with-embodied-agent-4nog)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
