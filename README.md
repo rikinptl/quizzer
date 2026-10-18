@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for sustainable aquaculture monitoring systems for low-power autonomous deployments](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-sustainable-aquaculture-monitoring-systems-for-low-power-5ce)
 - [Physics-Augmented Diffusion Modeling for planetary geology survey missions in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-in-hybrid-4a26)
 - [Privacy-Preserving Active Learning for sustainable aquaculture monitoring systems for extreme data sparsity scenarios](https://dev.to/rikinptl/privacy-preserving-active-learning-for-sustainable-aquaculture-monitoring-systems-for-extreme-data-17he)
 - [Meta-Optimized Continual Adaptation for coastal climate resilience planning with ethical auditability baked in](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-coastal-climate-resilience-planning-with-ethical-30fi)
 - [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning in carbon-negative infrastructure](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-in-carbon-negative-5e9i)
-- [Sparse Federated Representation Learning for bio-inspired soft robotics maintenance with inverse simulation verification](https://dev.to/rikinptl/sparse-federated-representation-learning-for-bio-inspired-soft-robotics-maintenance-with-inverse-3fmc)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
