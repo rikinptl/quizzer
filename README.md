@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-with-zero-trust-g9g)
 - [Probabilistic Graph Neural Inference for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-wildfire-evacuation-logistics-networks-for-low-power-2i5c)
 - [Generative Simulation Benchmarking for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-with-ethical-5a6g)
 - [Explainable Causal Reinforcement Learning for planetary geology survey missions with inverse simulation verification](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-planetary-geology-survey-missions-with-inverse-hj1)
 - [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design across multilingual stakeholder groups](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-across-multilingual-4lg7)
-- [Probabilistic Graph Neural Inference for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-smart-agriculture-microgrid-orchestration-with-ethical-34o4)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
