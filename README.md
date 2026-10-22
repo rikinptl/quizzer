@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Human-Aligned Decision Transformers for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/human-aligned-decision-transformers-for-smart-agriculture-microgrid-orchestration-with-ethical-107c)
 - [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-under-real-time-4ceh)
 - [Self-Supervised Temporal Pattern Mining for heritage language revitalization programs with embodied agent feedback loops](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-heritage-language-revitalization-programs-with-embodied-446i)
 - [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows with zero-trust governance guarantees](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-with-zero-trust-g9g)
 - [Probabilistic Graph Neural Inference for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-wildfire-evacuation-logistics-networks-for-low-power-2i5c)
-- [Generative Simulation Benchmarking for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/generative-simulation-benchmarking-for-circular-manufacturing-supply-chains-with-ethical-5a6g)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
