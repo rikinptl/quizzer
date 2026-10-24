@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-with-embodied-agent-m96)
 - [Probabilistic Graph Neural Inference for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-with-ethical-k2f)
 - [Cross-Modal Knowledge Distillation for deep-sea exploration habitat design for low-power autonomous deployments](https://dev.to/rikinptl/cross-modal-knowledge-distillation-for-deep-sea-exploration-habitat-design-for-low-power-autonomous-3p04)
 - [Privacy-Preserving Active Learning for bio-inspired soft robotics maintenance with embodied agent feedback loops](https://dev.to/rikinptl/privacy-preserving-active-learning-for-bio-inspired-soft-robotics-maintenance-with-embodied-agent-5hfj)
 - [Human-Aligned Decision Transformers for smart agriculture microgrid orchestration with ethical auditability baked in](https://dev.to/rikinptl/human-aligned-decision-transformers-for-smart-agriculture-microgrid-orchestration-with-ethical-107c)
-- [Probabilistic Graph Neural Inference for sustainable aquaculture monitoring systems under real-time policy constraints](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-sustainable-aquaculture-monitoring-systems-under-real-time-4ceh)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
