@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Adaptive Neuro-Symbolic Planning for sustainable aquaculture monitoring systems under real-time policy constraints](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-sustainable-aquaculture-monitoring-systems-under-real-time-1l3d)
 - [Privacy-Preserving Active Learning for deep-sea exploration habitat design for low-power autonomous deployments](https://dev.to/rikinptl/privacy-preserving-active-learning-for-deep-sea-exploration-habitat-design-for-low-power-autonomous-c1b)
 - [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning with inverse simulation verification](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-with-inverse-60i)
 - [Sparse Federated Representation Learning for circular manufacturing supply chains with ethical auditability baked in](https://dev.to/rikinptl/sparse-federated-representation-learning-for-circular-manufacturing-supply-chains-with-ethical-21h4)
 - [Edge-to-Cloud Swarm Coordination for sustainable aquaculture monitoring systems with embodied agent feedback loops](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-sustainable-aquaculture-monitoring-systems-with-embodied-agent-m96)
-- [Probabilistic Graph Neural Inference for satellite anomaly response operations with ethical auditability baked in](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-satellite-anomaly-response-operations-with-ethical-k2f)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
