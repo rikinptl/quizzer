@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Probabilistic Graph Neural Inference for precision oncology clinical workflows for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-precision-oncology-clinical-workflows-for-low-power-2559)
 - [Explainable Causal Reinforcement Learning for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-during-1m1k)
 - [Edge-to-Cloud Swarm Coordination for autonomous urban air mobility routing with ethical auditability baked in](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-autonomous-urban-air-mobility-routing-with-ethical-50an)
 - [Privacy-Preserving Active Learning for circular manufacturing supply chains in hybrid quantum-classical pipelines](https://dev.to/rikinptl/privacy-preserving-active-learning-for-circular-manufacturing-supply-chains-in-hybrid-1c13)
 - [Edge-to-Cloud Swarm Coordination for planetary geology survey missions in carbon-negative infrastructure](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-planetary-geology-survey-missions-in-carbon-negative-1j0e)
-- [Human-Aligned Decision Transformers for smart agriculture microgrid orchestration with zero-trust governance guarantees](https://dev.to/rikinptl/human-aligned-decision-transformers-for-smart-agriculture-microgrid-orchestration-with-zero-trust-2l82)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
