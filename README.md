@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-planetary-geology-survey-missions-for-extreme-data-1ggj)
 - [Human-Aligned Decision Transformers for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-autonomous-urban-air-mobility-routing-for-extreme-data-3p11)
 - [Self-Supervised Temporal Pattern Mining for smart agriculture microgrid orchestration for low-power autonomous deployments](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-smart-agriculture-microgrid-orchestration-for-low-power-21nk)
 - [Generative Simulation Benchmarking for bio-inspired soft robotics maintenance under real-time policy constraints](https://dev.to/rikinptl/generative-simulation-benchmarking-for-bio-inspired-soft-robotics-maintenance-under-real-time-3j5o)
 - [Probabilistic Graph Neural Inference for precision oncology clinical workflows for low-power autonomous deployments](https://dev.to/rikinptl/probabilistic-graph-neural-inference-for-precision-oncology-clinical-workflows-for-low-power-2559)
-- [Explainable Causal Reinforcement Learning for satellite anomaly response operations during mission-critical recovery windows](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-satellite-anomaly-response-operations-during-1m1k)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
