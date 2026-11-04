@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for satellite anomaly response operations in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-satellite-anomaly-response-operations-in-hybrid-448l)
 - [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-for-extreme-2hn6)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains with zero-trust governance guarantees](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-with-zero-trust-3hp5)
 - [Generative Simulation Benchmarking for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h5g)
 - [Self-Supervised Temporal Pattern Mining for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-planetary-geology-survey-missions-for-extreme-data-1ggj)
-- [Human-Aligned Decision Transformers for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/human-aligned-decision-transformers-for-autonomous-urban-air-mobility-routing-for-extreme-data-3p11)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
