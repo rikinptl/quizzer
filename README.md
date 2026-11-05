@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Edge-to-Cloud Swarm Coordination for precision oncology clinical workflows for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-precision-oncology-clinical-workflows-for-extreme-data-2i2i)
 - [Sparse Federated Representation Learning for wildfire evacuation logistics networks with ethical auditability baked in](https://dev.to/rikinptl/sparse-federated-representation-learning-for-wildfire-evacuation-logistics-networks-with-ethical-1m5)
 - [Self-Supervised Temporal Pattern Mining for satellite anomaly response operations in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-satellite-anomaly-response-operations-in-hybrid-448l)
 - [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-for-extreme-2hn6)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains with zero-trust governance guarantees](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-with-zero-trust-3hp5)
-- [Generative Simulation Benchmarking for planetary geology survey missions for extreme data sparsity scenarios](https://dev.to/rikinptl/generative-simulation-benchmarking-for-planetary-geology-survey-missions-for-extreme-data-sparsity-h5g)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
