@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-for-extreme-data-49dn)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-across-4clb)
 - [Edge-to-Cloud Swarm Coordination for precision oncology clinical workflows for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-precision-oncology-clinical-workflows-for-extreme-data-2i2i)
 - [Sparse Federated Representation Learning for wildfire evacuation logistics networks with ethical auditability baked in](https://dev.to/rikinptl/sparse-federated-representation-learning-for-wildfire-evacuation-logistics-networks-with-ethical-1m5)
 - [Self-Supervised Temporal Pattern Mining for satellite anomaly response operations in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-satellite-anomaly-response-operations-in-hybrid-448l)
-- [Explainable Causal Reinforcement Learning for autonomous urban air mobility routing for extreme data sparsity scenarios](https://dev.to/rikinptl/explainable-causal-reinforcement-learning-for-autonomous-urban-air-mobility-routing-for-extreme-2hn6)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
