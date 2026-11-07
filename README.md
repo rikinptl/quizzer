@@ -17,11 +17,11 @@
 # My Latest Blogs📝
 Check out these blogs where I talk about cool stuff I'm learning while working on my project:
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Temporal Pattern Mining for coastal climate resilience planning in hybrid quantum-classical pipelines](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-coastal-climate-resilience-planning-in-hybrid-4o44)
 - [Physics-Augmented Diffusion Modeling for planetary geology survey missions with embodied agent feedback loops](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-planetary-geology-survey-missions-with-embodied-agent-188d)
 - [Physics-Augmented Diffusion Modeling for deep-sea exploration habitat design in hybrid quantum-classical pipelines](https://dev.to/rikinptl/physics-augmented-diffusion-modeling-for-deep-sea-exploration-habitat-design-in-hybrid-3efp)
 - [Meta-Optimized Continual Adaptation for deep-sea exploration habitat design for extreme data sparsity scenarios](https://dev.to/rikinptl/meta-optimized-continual-adaptation-for-deep-sea-exploration-habitat-design-for-extreme-data-49dn)
 - [Self-Supervised Temporal Pattern Mining for circular manufacturing supply chains across multilingual stakeholder groups](https://dev.to/rikinptl/self-supervised-temporal-pattern-mining-for-circular-manufacturing-supply-chains-across-4clb)
-- [Edge-to-Cloud Swarm Coordination for precision oncology clinical workflows for extreme data sparsity scenarios](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-precision-oncology-clinical-workflows-for-extreme-data-2i2i)
 <!-- BLOG-POST-LIST:END -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
